@@ -30,7 +30,8 @@ function displayFilteredGames(filteredGames) {
     gameImage.alt = `Play ${game.name} - ${game.description ? game.description.substring(0, 100) + '...' : 'Free Online Unblocked Game'}`;
     gameImage.loading = "lazy";
     gameImage.onclick = () => {
-      window.location.href = `play.html?gameurl=${game.url}/&gamename=${encodeURIComponent(game.name)}`;
+      // Use SEO-friendly URLs
+      window.location.href = `game/${game.url.replace('/', '')}`;
     };
 
     const gameName = document.createElement("p");
@@ -55,7 +56,7 @@ function displayFilteredGames(filteredGames) {
     gameDiv.setAttribute('itemtype', 'https://schema.org/Game');
     
     const gameLink = document.createElement("a");
-    gameLink.href = `play.html?gameurl=${game.url}/&gamename=${encodeURIComponent(game.name)}`;
+    gameLink.href = `game/${game.url.replace('/', '')}`;
     gameLink.setAttribute('itemprop', 'url');
     gameLink.style.textDecoration = "none";
     gameLink.style.color = "inherit";

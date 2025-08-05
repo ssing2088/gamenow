@@ -8,6 +8,24 @@
     <meta name="robots" content="index, follow" />
     <link rel="canonical" id="canonical-link" href="https://gamenow.net/play.html" />
 
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json" id="game-schema">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Loading Game",
+      "description": "Play free unblocked games online at Gamenow.net",
+      "url": "https://gamenow.net/play.html",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Gamenow.net",
+        "url": "https://gamenow.net"
+      },
+      "playMode": "SinglePlayer",
+      "applicationCategory": "Game"
+    }
+    </script>
+
     <script src="config/main.js" type="module"></script>
     <style>
       body {
@@ -47,8 +65,19 @@
       var serverUrl1 = "https://gms.parcoil.com";
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
-      const gameUrl = urlParams.get("gameurl");
-      const gameName = urlParams.get("gamename");
+      
+      // Handle both old and new URL formats
+      let gameUrl = urlParams.get("gameurl");
+      let gameName = urlParams.get("gamename");
+      
+      // If no URL params, check if we're using SEO-friendly URLs
+      if (!gameUrl) {
+        const pathSegments = window.location.pathname.split('/');
+        if (pathSegments[1] === 'game' && pathSegments[2]) {
+          gameUrl = pathSegments[2] + '/';
+          gameName = pathSegments[2];
+        }
+      }
 
       // Fetch game data for SEO optimization
       async function loadGameData() {
@@ -73,9 +102,9 @@
               document.head.appendChild(keywordsMeta);
             }
             
-            // Update canonical URL
+            // Update canonical URL to use SEO-friendly format
             const canonical = document.getElementById('canonical-link');
-            canonical.href = `https://gamenow.net/play.html?gameurl=${gameUrl}&gamename=${encodeURIComponent(currentGame.name)}`;
+            canonical.href = `https://gamenow.net/game/${gameUrl.replace('/', '')}`;
             
             // Enhanced JSON-LD structured data
             const jsonLD = {
@@ -83,7 +112,7 @@
               "@type": "Game",
               "name": currentGame.name,
               "description": currentGame.description || `Play ${currentGame.name} free online browser game`,
-              "url": window.location.href,
+              "url": `https://gamenow.net/game/${gameUrl.replace('/', '')}`,
               "genre": currentGame.category || "Browser Game",
               "playMode": "SinglePlayer",
               "applicationCategory": "Game",
@@ -101,10 +130,16 @@
               }
             };
             
-            const script = document.createElement('script');
-            script.type = 'application/ld+json';
-            script.textContent = JSON.stringify(jsonLD);
-            document.head.appendChild(script);
+            // Update existing JSON-LD script or create new one
+            const existingScript = document.getElementById('game-schema');
+            if (existingScript) {
+              existingScript.textContent = JSON.stringify(jsonLD, null, 2);
+            } else {
+              const script = document.createElement('script');
+              script.type = 'application/ld+json';
+              script.textContent = JSON.stringify(jsonLD, null, 2);
+              document.head.appendChild(script);
+            }
           }
         } catch (error) {
           console.error('Failed to load game data:', error);

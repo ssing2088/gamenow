@@ -993,7 +993,10 @@
     "name": "Froggy's Battle",
     "image": "splash.png",
     "url": "froggys-battle",
-    "new": false
+    "new": false,
+    "description": "Join the epic amphibian warfare in Froggy's Battle, an action-packed strategy game where brave frogs defend their pond against invading forces! Command an army of heroic frogs as they use lily pads as strategic platforms and deploy nature-based weapons to protect their aquatic homeland. Master tactical combat skills including unit positioning, resource management, and timing-based attacks that allow you to coordinate effective defensive strategies against waves of enemies. Develop advanced warfare techniques through troop formation planning, upgrade prioritization, and battlefield awareness that help you maximize your army's effectiveness while conserving valuable resources. Learn progression systems, unit specialization mechanics, and defensive construction options that provide multiple strategic approaches to each battle scenario while encouraging creative tactical solutions. The game features charming cartoon graphics, engaging battle animations, and progressive difficulty that creates an accessible yet challenging strategy experience perfect for players of all ages. Perfect for strategy enthusiasts, animal lovers, and players who enjoy games that combine cute characters with serious tactical gameplay mechanics. Experience the thrill of commanding nature's forces and discover how teamwork and strategy can overcome any threat in this delightful amphibian adventure!",
+    "tags": ["Strategy", "Battle", "Frogs", "Tactical", "Defense"],
+    "category": "Strategy"
   },
   {
     "name": "Fruit Ninja",
@@ -1120,9 +1123,6 @@
     "description": "Defy physics in Gravity Soccer, an innovative sports game that combines traditional football mechanics with gravity-manipulating abilities to create the most unique soccer experience ever conceived! Control gravity fields to curve ball trajectories, manipulate player movement, and create impossible plays that redefine what's possible in virtual football. Master essential gravity mechanics including field manipulation, trajectory prediction, and timing coordination that allow you to score spectacular goals through creative use of gravitational forces and environmental physics. Develop advanced strategic thinking through gravity field optimization, opponent prediction, and spatial reasoning that help you outmaneuver traditional players who rely only on conventional football skills and tactics. Learn power management systems, field control techniques, and combo execution strategies that unlock new gravitational abilities while maintaining energy reserves for crucial moments in competitive matches. The game features innovative physics simulation, spectacular visual effects, and unique gameplay mechanics that revolutionize sports gaming by introducing supernatural elements that enhance rather than replace traditional football strategy and skill. Perfect for sports game innovators, physics enthusiasts, and players who enjoy games that push creative boundaries while maintaining competitive integrity and strategic depth. Experience the future of sports gaming and discover how adding supernatural elements can enhance rather than diminish the fundamental appeal of competitive team sports through creative game design!",
     "tags": ["Sports", "Physics", "Gravity", "Soccer", "Innovative"],
     "category": "Sports"
-  },
-  {
-    "new": false
   },
   {
     "name": "Greybox",
@@ -1314,9 +1314,13 @@
     "category": "Action"
   },
   {
+    "name": "Krunker.io",
     "image": "img/krunker-io.jpg",
     "url": "krunker",
-    "new": false
+    "new": false,
+    "description": "Dominate the battlefield in Krunker.io, the fast-paced browser-based first-person shooter that brings competitive FPS action directly to your web browser! Experience intense multiplayer combat with crisp pixelated graphics, responsive controls, and various game modes including Team Deathmatch, Free for All, and Capture the Flag. Master essential FPS skills including precise aiming, movement optimization, and map awareness that separate casual players from competitive warriors in this high-speed combat environment. Develop advanced tactical abilities through weapon mastery, positioning strategies, and team coordination that help you dominate matches while climbing the global leaderboards and unlocking prestigious achievements. Learn customization systems, progression mechanics, and competitive strategies that provide multiple pathways for character development while encouraging experimentation with different playstyles and weapon combinations. The game features smooth 60fps gameplay, dedicated servers worldwide, and regular updates that ensure optimal performance and fresh content for the growing competitive community. Perfect for FPS enthusiasts, competitive gamers, and players who enjoy accessible yet deep multiplayer shooting experiences that require no downloads or installations. Experience the thrill of instant competitive gaming and discover why browser-based FPS games can deliver the same intensity and skill requirements as traditional desktop shooters through optimized web technology!",
+    "tags": ["FPS", "Multiplayer", "Competitive", "Browser", "Shooting"],
+    "category": "Action"
   },
   {
     "name": "Learn to Fly",
@@ -1385,13 +1389,19 @@
     "name": "Meme 2048",
     "image": "img/hot.gif",
     "url": "meme2048",
-    "new": false
+    "new": false,
+    "description": "Experience the hilarious fusion of internet culture and classic puzzle mechanics in Meme 2048, the viral variation that replaces traditional numbers with the most iconic memes of the digital age! Combine famous meme characters, viral images, and internet sensations as you progress through increasingly prestigious levels of meme mastery. Master essential combination strategies while enjoying the nostalgic journey through internet history, from classic rage faces to modern viral phenomena that have shaped online culture. Develop pattern recognition skills through meme evolution sequences, learning how different internet personalities combine and transform into legendary status symbols of digital humor and cultural significance. Learn meme hierarchy systems, viral progression mechanics, and internet culture appreciation that reward both puzzle-solving abilities and knowledge of online community dynamics and humor traditions. The game features authentic meme artwork, recognizable internet personalities, and progressive difficulty that creates an entertaining experience celebrating the creativity and humor of internet culture through interactive gameplay. Perfect for meme enthusiasts, internet culture historians, and puzzle fans who appreciate games that combine intellectual challenge with cultural references and community-driven humor elements. Experience the ultimate celebration of digital culture and discover how traditional puzzle mechanics can become vehicles for preserving and celebrating the rich history of internet creativity and community humor!",
+    "tags": ["Memes", "Internet Culture", "Puzzle", "Viral", "Humor"],
+    "category": "Puzzle"
   },
   {
     "name": "Merge Round Racers",
     "image": "splash.png",
     "url": "merge-round-racers",
-    "new": false
+    "new": false,
+    "description": "Combine speed and strategy in Merge Round Racers, the innovative racing game that blends merge mechanics with high-speed competition! Merge identical vehicles to create more powerful racers while competing in thrilling circular tracks that test both your racing skills and strategic thinking. Master essential merge strategies including timing optimization, resource management, and upgrade prioritization that allow you to build the ultimate racing fleet while maintaining competitive performance on the track. Develop advanced racing techniques through vehicle combination planning, track mastery, and tactical positioning that help you outmaneuver opponents while continuously improving your racing capabilities through strategic merging. Learn progression systems, vehicle evolution mechanics, and race strategy optimization that provide multiple pathways for fleet development while encouraging experimentation with different racing styles and merge combinations. The game features dynamic racing action, satisfying merge mechanics, and progressive difficulty that creates an engaging experience combining the excitement of racing with the strategic depth of puzzle-solving elements. Perfect for racing enthusiasts, strategy game fans, and players who enjoy games that successfully combine high-speed action with thoughtful planning and resource management mechanics. Experience the thrill of strategic racing and discover how merge mechanics can enhance traditional racing gameplay through innovative design that rewards both speed and intelligence!",
+    "tags": ["Racing", "Merge", "Strategy", "Vehicles", "Competition"],
+    "category": "Racing"
   },
   {
     "name": "Mine Blocks",
@@ -1442,61 +1452,91 @@
     "name": "Minesweeper",
     "image": "img/minesweeper.png",
     "url": "minesweeper",
-    "new": false
+    "new": false,
+    "description": "Master the art of logical deduction in Minesweeper, the timeless puzzle classic that has challenged minds for decades with its perfect blend of logical reasoning and calculated risk-taking! Clear a minefield by strategically revealing safe squares while using numerical clues to identify hidden explosive mines. Master essential deduction techniques including pattern recognition, probability calculation, and logical elimination that allow you to safely navigate even the most complex minefields without relying on dangerous guesswork. Develop advanced analytical skills through systematic approach methods, grid analysis techniques, and risk assessment strategies that help you solve increasingly difficult puzzles while maintaining perfect safety records. Learn optimization strategies, speed-solving techniques, and advanced pattern recognition that separate casual players from Minesweeper masters who can clear expert-level fields in record time with mathematical precision. The game features classic pixel graphics, intuitive click controls, and multiple difficulty levels that provide the authentic Minesweeper experience beloved by generations of puzzle enthusiasts and logic game fans. Perfect for logic puzzle lovers, analytical thinkers, and players who appreciate games that reward careful reasoning over fast reflexes or complex game mechanics. Experience the pure satisfaction of perfect logical deduction and discover why this simple concept has remained one of the most beloved puzzle games in computing history through elegant, timeless design!",
+    "tags": ["Logic", "Puzzle", "Classic", "Deduction", "Timeless"],
+    "category": "Puzzle"
   },
   {
     "name": "Mini Putt",
     "image": "miniputt.png",
     "url": "miniputt",
-    "new": false
+    "new": false,
+    "description": "Perfect your putting skills in Mini Putt, a delightful miniature golf game that captures all the fun and challenge of mini golf courses in a charming digital format! Navigate through creative obstacles, tricky slopes, and cleverly designed holes while mastering the precise ball control needed for hole-in-one achievements. Master essential putting techniques including power control, angle calculation, and trajectory planning that allow you to navigate complex course layouts while accounting for physics elements like slopes, barriers, and bounce mechanics. Develop advanced golf strategies through course analysis, shot selection, and risk management that help you achieve lower scores while learning to handle increasingly challenging hole designs and environmental obstacles. Learn progression systems, achievement tracking, and course mastery techniques that reward both skillful play and creative shot-making while encouraging thorough exploration of different approach strategies for each unique hole. The game features colorful cartoon graphics, intuitive mouse controls, and progressively challenging course designs that create an authentic miniature golf experience perfect for players of all ages and skill levels. Perfect for casual gamers, golf enthusiasts, and families looking for enjoyable sports games that emphasize skill development and friendly competition over complex game mechanics. Experience the timeless appeal of miniature golf and discover how digital recreation can capture the essence of real-world sports through engaging, accessible gameplay!",
+    "tags": ["Golf", "Mini Golf", "Sports", "Casual", "Family-Friendly"],
+    "category": "Sports"
   },
   {
     "name": "Missiles",
     "image": "miss.png",
     "url": "missiles",
-    "new": false
+    "new": false,
+    "description": "Command devastating firepower in Missiles, an intense strategy game that puts you in control of advanced missile defense systems protecting crucial targets from incoming threats! Coordinate multiple launch sites, track incoming projectiles, and deploy countermeasures with precision timing to prevent catastrophic destruction. Master essential defensive strategies including threat prioritization, resource allocation, and timing coordination that allow you to efficiently neutralize multiple simultaneous attacks while conserving limited ammunition and defensive capabilities. Develop advanced tactical skills through radar interpretation, trajectory calculation, and strategic planning that help you anticipate enemy attack patterns while optimizing defensive coverage across multiple potential target zones. Learn weapon systems management, upgrade prioritization, and crisis response techniques that provide multiple approaches to each defensive scenario while encouraging adaptability and quick decision-making under extreme pressure. The game features realistic missile physics, intense action sequences, and strategic depth that creates an authentic military defense experience combining technical precision with tactical thinking and resource management. Perfect for strategy enthusiasts, military simulation fans, and players who enjoy games that combine real-time action with careful planning and strategic resource management in high-stakes scenarios. Experience the intensity of modern warfare defense and discover how strategic thinking and precise execution can make the difference between victory and devastation in this thrilling military simulation!",
+    "tags": ["Strategy", "Military", "Defense", "Missiles", "Tactical"],
+    "category": "Strategy"
   },
   {
     "name": "Moto X3M",
     "image": "splash.jpg",
     "url": "motox3m",
-    "new": false
+    "new": false,
+    "description": "Rev your engines for Moto X3M, the ultimate motorcycle stunt racing game that combines high-speed racing with death-defying stunts and obstacle courses! Navigate through increasingly challenging levels filled with ramps, spikes, explosives, and moving platforms while maintaining control of your motorcycle. Master essential bike control techniques including acceleration management, landing stabilization, and mid-air maneuvering that allow you to survive the most dangerous obstacle courses while achieving record completion times. Develop advanced stunt riding skills through physics understanding, timing optimization, and risk assessment that help you execute spectacular jumps while avoiding deadly traps and environmental hazards. Learn progression mechanics, bike customization options, and time trial strategies that reward both safe completion and daredevil stunts while encouraging players to perfect their riding techniques and discover optimal routes. The game features realistic motorcycle physics, spectacular crash animations, and creative level design that creates an authentic extreme sports experience with satisfying progression and endless replayability. Perfect for racing enthusiasts, extreme sports fans, and players who enjoy games that combine skill-based challenges with spectacular visual effects and physics-based gameplay mechanics. Experience the thrill of extreme motorcycle racing and discover how precise control and fearless determination can overcome even the most impossible obstacle courses in this adrenaline-pumping stunt racing adventure!",
+    "tags": ["Racing", "Motorcycles", "Stunts", "Extreme Sports", "Physics"],
+    "category": "Racing"
   },
   {
     "name": "Moto X3M Pool",
     "image": "splash.jpg",
     "url": "motox3m-pool",
-    "new": false
+    "new": false,
+    "description": "Dive into aquatic motorcycle mayhem with Moto X3M Pool, the summer-themed installment that brings pool parties and water-based obstacles to the extreme stunt racing series! Race through swimming pool complexes, water parks, and beachside obstacle courses while performing death-defying stunts over pools, slides, and inflatable obstacles. Master water-themed challenges including pool jumping, slide navigation, and splash landing techniques that require precise timing and speed control to avoid catastrophic crashes into concrete pool edges. Develop advanced aquatic stunt skills through momentum management, trajectory calculation, and environmental awareness that help you successfully navigate wet and slippery surfaces while maintaining motorcycle control. Learn pool party mechanics, summer-themed obstacle recognition, and seasonal stunt techniques that provide unique challenges specific to aquatic environments while maintaining the core extreme racing experience. The game features bright summer graphics, refreshing pool environments, and creative water-based obstacles that create a fun vacation atmosphere while delivering the same heart-pounding stunt racing action fans expect. Perfect for summer gaming sessions, extreme sports enthusiasts, and players who enjoy themed variations that add environmental variety to established gameplay formulas. Experience the ultimate summer stunt racing adventure and discover how seasonal themes can enhance familiar gameplay mechanics through creative environmental design and imaginative obstacle courses!",
+    "tags": ["Racing", "Summer", "Pool", "Water Stunts", "Seasonal"],
+    "category": "Racing"
   },
   {
     "name": "Moto X3M Spooky",
     "image": "splash.jpeg",
     "url": "motox3m-spooky",
-    "new": false
+    "new": false,
+    "description": "Embrace the Halloween spirit in Moto X3M Spooky, the horror-themed edition that transforms extreme motorcycle racing into a spine-chilling adventure through haunted obstacle courses! Navigate through creepy graveyards, haunted mansions, and spooky landscapes filled with supernatural hazards, ghost-themed obstacles, and frightening visual effects. Master horror-themed challenges including phantom jumps, graveyard navigation, and supernatural obstacle courses that require courage and skill to overcome while maintaining focus despite scary visual distractions and atmospheric effects. Develop advanced fear management techniques through concentration under pressure, atmospheric adaptation, and supernatural obstacle recognition that help you maintain peak performance even in the most terrifying racing environments. Learn Halloween mechanics, spooky stunt execution, and seasonal horror techniques that provide unique atmospheric challenges while preserving the core extreme racing gameplay that defines the Moto X3M series. The game features dark atmospheric graphics, spooky sound effects, and creative horror-themed obstacles that create an authentic Halloween racing experience perfect for seasonal gaming and horror enthusiasts. Perfect for Halloween gaming sessions, horror fans, and players who enjoy atmospheric variations that add thematic depth to established gameplay mechanics through creative environmental storytelling. Experience the ultimate Halloween stunt racing adventure and discover how horror themes can enhance adrenaline-pumping gameplay through immersive atmospheric design and supernatural obstacle creativity!",
+    "tags": ["Racing", "Horror", "Halloween", "Spooky", "Atmospheric"],
+    "category": "Racing"
   },
   {
     "name": "Moto X3M Winter",
     "image": "download.jpeg",
     "url": "motox3m-winter",
-    "new": false
+    "new": false,
+    "description": "Conquer icy terrain in Moto X3M Winter, the snow-covered edition that brings winter wonderland challenges to extreme motorcycle stunt racing! Race through frozen landscapes, snowy mountains, and ice-covered obstacle courses while dealing with slippery surfaces and winter weather conditions. Master winter riding techniques including ice navigation, snow handling, and cold weather motorcycle control that require adapted strategies for maintaining grip and stability on treacherous frozen surfaces. Develop advanced cold-weather skills through ice physics understanding, winter hazard recognition, and seasonal obstacle mastery that help you overcome unique challenges posed by frozen environments and weather-related difficulties. Learn winter mechanics, snow stunt execution, and cold-weather racing strategies that provide seasonally appropriate challenges while maintaining the high-speed excitement and extreme stunt focus of the core series. The game features beautiful winter graphics, realistic ice physics, and creative snow-themed obstacles that create an authentic winter racing experience perfect for holiday gaming and seasonal variety. Perfect for winter gaming sessions, extreme sports enthusiasts, and players who appreciate seasonal content that adapts familiar gameplay mechanics to new environmental conditions and thematic settings. Experience the ultimate winter stunt racing adventure and discover how seasonal weather conditions can create fresh challenges and renewed excitement in established gaming formulas through environmental adaptation and creative seasonal design!",
+    "tags": ["Racing", "Winter", "Snow", "Ice", "Seasonal"],
+    "category": "Racing"
   },
   {
     "name": "Moto X3M 2",
     "image": "Moto-X3M-2.webp",
     "url": "motox3m2",
-    "new": false
+    "new": false,
+    "description": "Return to extreme motorcycle action in Moto X3M 2, the highly anticipated sequel that elevates the stunt racing formula with new obstacles, enhanced physics, and even more challenging courses! Experience improved graphics, smoother controls, and innovative obstacle designs that push the boundaries of what's possible in browser-based extreme racing games. Master advanced stunt techniques including complex aerial maneuvers, precision landing strategies, and sophisticated bike control methods that separate expert riders from casual players in this evolution of extreme motorcycle racing. Develop superior racing skills through enhanced physics understanding, upgraded obstacle recognition, and refined timing techniques that help you navigate increasingly complex courses while achieving faster completion times and more spectacular stunts. Learn sequel-specific mechanics, improved customization options, and advanced progression systems that provide deeper gameplay experiences while maintaining the accessible yet challenging core that made the original a phenomenon. The sequel features upgraded visual effects, expanded level variety, and refined gameplay mechanics that create the definitive extreme motorcycle racing experience with improved performance and enhanced creative possibilities. Perfect for fans of the original seeking more content and newcomers looking for the most polished version of this extreme racing concept. Experience the evolution of stunt racing excellence and discover how sequels can successfully build upon established formulas through thoughtful improvements and expanded creative possibilities!",
+    "tags": ["Racing", "Sequel", "Enhanced", "Extreme Sports", "Improved"],
+    "category": "Racing"
   },
   {
     "name": "My Rusty Submarine",
     "image": "splash.png",
     "url": "my-rusty-submarine",
-    "new": false
+    "new": false,
+    "description": "Explore underwater depths in My Rusty Submarine, an atmospheric adventure game that combines submarine exploration with survival mechanics as you navigate the ocean floor in a deteriorating vessel! Manage oxygen levels, hull integrity, and navigation systems while discovering underwater mysteries and avoiding maritime dangers. Master essential submarine operation skills including depth management, pressure monitoring, and emergency protocols that allow you to safely explore deep ocean environments while maintaining life support systems and structural integrity. Develop advanced underwater exploration techniques through sonar interpretation, resource management, and crisis response that help you survive equipment failures while uncovering oceanic secrets and completing challenging underwater missions. Learn submarine systems, maintenance mechanics, and exploration strategies that reward careful planning and systematic approach to underwater survival while encouraging thorough exploration of mysterious aquatic environments. The game features atmospheric underwater graphics, realistic submarine mechanics, and immersive exploration gameplay that creates an authentic deep-sea adventure experience perfect for exploration enthusiasts and survival game fans. Perfect for underwater adventure seekers, survival simulation enthusiasts, and players who enjoy games that combine technical challenge with atmospheric exploration and resource management mechanics. Experience the mystery and danger of deep ocean exploration and discover how submarine survival can provide both thrilling adventure and educational insights into underwater navigation and maritime survival techniques!",
+    "tags": ["Submarine", "Underwater", "Exploration", "Survival", "Atmospheric"],
+    "category": "Adventure"
   },
   {
     "name": "N-Gon",
     "image": "img/n-gonbot.png",
     "url": "n-gon",
-    "new": false
+    "new": false,
+    "description": "Enter the geometric battlefield in N-Gon, an innovative physics-based action game where you control a polygon warrior navigating through dangerous environments filled with hostile shapes and challenging obstacles! Master the unique movement mechanics of a multi-sided character while engaging in intense combat against various geometric enemies. Master essential polygon physics including rotational movement, angular momentum, and geometric collision dynamics that allow you to navigate complex environments while maintaining tactical advantage over circular and triangular opponents. Develop advanced combat strategies through shape-based warfare, environmental physics manipulation, and geometric problem-solving that help you overcome increasingly challenging enemy formations and environmental puzzles. Learn upgrade systems, shape modification mechanics, and tactical positioning strategies that enhance your polygon's capabilities while providing access to new movement abilities and combat techniques for dominating geometric battlefields. The game features unique visual design, innovative physics mechanics, and creative geometric combat that creates an entirely original gaming experience unlike anything in traditional action gaming categories. Perfect for physics enthusiasts, innovative gaming fans, and players who appreciate games that push creative boundaries through unique character concepts and mathematical gameplay mechanics. Experience the cutting-edge of geometric warfare and discover how mathematical concepts can become the foundation for exciting action gameplay through creative design and innovative physics implementation!",
+    "tags": ["Physics", "Geometric", "Action", "Innovative", "Mathematical"],
+    "category": "Action"
   },
   {
     "name": "Ninja",
@@ -1547,7 +1587,10 @@
     "name": "Om Bounce",
     "image": "assets/icon.jpeg",
     "url": "om-bounce",
-    "new": false
+    "new": false,
+    "description": "Experience zen-like gameplay in Om Bounce, a meditative physics game that combines relaxing bouncing mechanics with peaceful visual design and soothing gameplay that promotes mindfulness and mental clarity! Control a bouncing sphere through tranquil environments while enjoying calming visual effects and gentle audio design that creates a truly peaceful gaming experience. Master essential bouncing physics including trajectory control, momentum management, and gentle navigation that allow you to move through serene environments while maintaining a sense of calm and focused concentration. Develop mindfulness skills through rhythmic bouncing patterns, meditative movement sequences, and peaceful environmental interaction that help you achieve a state of relaxed focus and mental clarity through engaging gameplay. Learn progression mechanics, environmental interaction systems, and mindfulness techniques that reward peaceful exploration and contemplative gameplay while encouraging stress relief and mental wellness through interactive meditation. The game features soothing visual aesthetics, calming sound design, and peaceful gameplay mechanics that create an authentic mindfulness experience perfect for stress relief and mental wellness practice. Perfect for meditation enthusiasts, stress relief seekers, and players who appreciate games that prioritize mental wellness and peaceful interaction over competitive or challenging gameplay elements. Experience the therapeutic power of mindful gaming and discover how simple bouncing mechanics can become a gateway to relaxation and stress relief through thoughtful design and peaceful interaction!",
+    "tags": ["Zen", "Meditation", "Physics", "Relaxing", "Mindfulness"],
+    "category": "Relaxation"
   },
   {
     "name": "OVO",
@@ -1580,169 +1623,253 @@
     "name": "Papa's Pizzeria",
     "image": "papaspizzaria.jpg",
     "url": "papaspizzaria",
-    "new": false
+    "new": false,
+    "description": "Become the ultimate pizza chef in Papa's Pizzeria, the beloved cooking simulation game that puts you in charge of a busy pizzeria where customer satisfaction and culinary excellence are the keys to success! Take orders, prepare dough, add toppings, and bake perfect pizzas while managing multiple customers and maintaining high-quality standards. Master essential pizza-making skills including dough preparation, topping distribution, and baking timing that allow you to create delicious pizzas while efficiently serving hungry customers and maximizing restaurant profits. Develop advanced culinary techniques through ingredient management, recipe mastery, and presentation skills that help you handle complex orders while maintaining consistency and quality throughout busy service periods. Learn restaurant progression systems, customer satisfaction mechanics, and business management strategies that unlock new ingredients, equipment upgrades, and special challenges while providing clear feedback for improvement and growth. The game features charming cartoon graphics, intuitive cooking mechanics, and addictive progression systems that create an authentic pizzeria simulation experience perfect for players of all ages and culinary interests. Perfect for cooking game enthusiasts, restaurant simulation fans, and players who enjoy time management challenges that combine creativity with business strategy in a fun, accessible format. Experience the joy of pizza craftsmanship and discover how cooking simulations can teach valuable lessons about food service, customer relations, and business management through engaging interactive gameplay!",
+    "tags": ["Cooking", "Pizza", "Restaurant", "Time Management", "Culinary"],
+    "category": "Simulation"
   },
   {
     "name": "Paper.io 2",
     "image": "images/icon512.png",
     "url": "paperio2",
-    "new": false
+    "new": false,
+    "description": "Conquer territory in Paper.io 2, the addictive multiplayer game where you expand your domain by creating loops and claiming new areas while avoiding other players who threaten your growing empire! Navigate around the playing field while drawing paths that, when completed, add new territory to your colored domain. Master essential territory expansion strategies including safe path planning, risk assessment, and timing coordination that allow you to claim maximum territory while avoiding dangerous encounters with aggressive opponents seeking to eliminate you. Develop advanced survival techniques through opponent behavior analysis, escape route planning, and strategic positioning that help you outmaneuver hostile players while continuously expanding your territorial control and climbing the leaderboards. Learn progression mechanics, territory optimization strategies, and competitive tactics that provide multiple approaches to domination while encouraging both aggressive expansion and careful defensive play based on current game conditions. The game features smooth multiplayer action, colorful territory visualization, and competitive gameplay that creates an engaging territorial conquest experience perfect for strategy enthusiasts and competitive gamers. Perfect for multiplayer fans, strategy game enthusiasts, and players who enjoy games that combine territorial control with real-time competition and tactical decision-making under pressure. Experience the thrill of digital conquest and discover how simple mechanics can create intensely competitive gameplay through territorial expansion and strategic thinking!",
+    "tags": ["Multiplayer", "Territory", "Strategy", "Competitive", "IO Game"],
+    "category": "Strategy"
   },
   {
     "name": "Papery Planes",
     "image": "splash.jpg",
     "url": "papery-planes",
-    "new": false
+    "new": false,
+    "description": "Soar through minimalist skies in Papery Planes, a relaxing flight game that captures the simple joy of paper airplane gliding with beautiful aesthetics and peaceful gameplay! Guide delicate paper aircraft through serene environments while collecting items and avoiding obstacles in this meditative flying experience. Master essential flight mechanics including lift management, gentle steering, and graceful navigation that allow you to maintain smooth flight paths while enjoying the calming atmosphere and beautiful visual design. Develop advanced gliding techniques through wind understanding, timing optimization, and environmental awareness that help you achieve longer flights while collecting all available items and exploring every corner of the peaceful game world. Learn progression systems, aircraft customization options, and exploration rewards that unlock new paper plane designs and flying areas while encouraging thorough exploration and peaceful interaction with the game environment. The game features beautiful paper-inspired graphics, soothing background music, and gentle gameplay mechanics that create a truly relaxing gaming experience perfect for stress relief and peaceful entertainment. Perfect for casual gamers, relaxation seekers, and players who appreciate games that prioritize peaceful aesthetics and calming gameplay over competitive challenges or stressful mechanics. Experience the zen of virtual flight and discover how simple flying mechanics can provide therapeutic relaxation and peaceful entertainment through thoughtful design and beautiful artistic presentation!",
+    "tags": ["Flying", "Relaxing", "Paper", "Peaceful", "Zen"],
+    "category": "Relaxation"
   },
   {
     "name": "Particle Clicker",
     "image": "assets/pc32@2x.png",
     "url": "particle-clicker",
-    "new": false
+    "new": false,
+    "description": "Explore the fascinating world of particle physics in Particle Clicker, an educational idle game that combines scientific learning with addictive clicker mechanics to teach real physics concepts! Generate particles, fund research, and unlock new discoveries while learning about the actual scientific process behind particle physics research and discovery. Master essential research strategies including funding allocation, experiment prioritization, and data analysis that mirror real scientific methodology while providing engaging gameplay that makes complex physics concepts accessible and entertaining. Develop advanced scientific thinking through hypothesis formation, experimental design, and peer review processes that help you understand how modern physics research actually works while building a virtual particle physics empire. Learn progression systems, scientific achievement unlocks, and research management techniques that provide authentic insights into the scientific process while maintaining the engaging idle gameplay mechanics that keep players invested. The game features educational content based on real physics, authentic scientific terminology, and progression systems that mirror actual research advancement patterns used in modern particle physics laboratories worldwide. Perfect for science enthusiasts, educational gaming fans, and players who appreciate games that successfully combine entertainment with legitimate educational content and scientific accuracy. Experience the excitement of scientific discovery and learn how particle physics research actually works through engaging gameplay that makes complex scientific concepts accessible and fun!",
+    "tags": ["Science", "Physics", "Educational", "Clicker", "Research"],
+    "category": "Educational"
   },
   {
     "name": "Pixel Gun Survival",
     "image": "512x512.png",
     "url": "pixel-gun-survival",
-    "new": false
+    "new": false,
+    "description": "Battle for survival in Pixel Gun Survival, an intense pixelated shooter that combines retro aesthetics with modern survival mechanics as you fight against waves of enemies in a blocky apocalyptic world! Scavenge for weapons, build defenses, and eliminate hostile forces while managing limited resources in this pixel-art survival experience. Master essential survival shooter skills including resource management, weapon handling, and base defense that allow you to survive increasingly difficult enemy waves while maintaining adequate supplies and defensive positions. Develop advanced combat strategies through weapon crafting, fortification building, and tactical positioning that help you overcome overwhelming odds through superior preparation and strategic use of environmental advantages. Learn progression systems, crafting mechanics, and survival techniques that reward both aggressive combat and careful resource allocation while encouraging creative approaches to base defense and enemy elimination. The game features charming pixel graphics, satisfying shooter mechanics, and comprehensive survival systems that create an engaging post-apocalyptic experience perfect for action and survival game enthusiasts. Perfect for pixel art fans, survival shooters, and players who enjoy games that combine nostalgic visual design with modern gameplay mechanics and challenging survival elements. Experience the thrill of pixelated survival and discover how retro aesthetics can enhance rather than limit modern survival gameplay through creative art direction and engaging combat mechanics!",
+    "tags": ["Pixel Art", "Survival", "Shooter", "Post-Apocalyptic", "Combat"],
+    "category": "Action"
   },
   {
     "name": "Polybranch",
     "image": "img/pic1.png",
     "url": "polybranch",
-    "new": false
+    "new": false,
+    "description": "Explore geometric growth in Polybranch, an innovative puzzle game that challenges you to understand and manipulate branching patterns in mathematical structures! Create complex geometric patterns through strategic branch placement while learning about mathematical concepts like fractals, growth patterns, and geometric progression. Master essential pattern recognition skills including symmetry understanding, geometric relationships, and mathematical visualization that allow you to create increasingly complex and beautiful branching structures through systematic planning. Develop advanced mathematical thinking through spatial reasoning, pattern analysis, and logical progression that help you solve increasingly sophisticated puzzles requiring deep understanding of geometric principles and mathematical relationships. Learn progression mechanics, pattern optimization techniques, and mathematical exploration strategies that reward both analytical thinking and creative experimentation while encouraging appreciation for mathematical beauty and geometric harmony. The game features elegant mathematical graphics, intuitive pattern creation tools, and educational content that creates an engaging experience perfect for mathematics enthusiasts and puzzle lovers who appreciate geometric beauty. Perfect for math education, pattern recognition development, and players who enjoy games that successfully combine mathematical learning with engaging puzzle mechanics and visual appeal. Experience the beauty of mathematical patterns and discover how geometric concepts can become the foundation for both artistic expression and logical puzzle solving through interactive mathematical exploration!",
+    "tags": ["Mathematical", "Patterns", "Geometric", "Educational", "Fractals"],
+    "category": "Educational"
   },
   {
     "name": "Popcat Classic",
     "image": "android-chrome-512x512.png",
     "url": "popcat-classic",
-    "new": false
+    "new": false,
+    "description": "Join the viral sensation in Popcat Classic, the beloved clicking game that became an internet phenomenon by combining simple cat-clicking mechanics with competitive global statistics! Click on the adorable cat character to open and close its mouth while contributing to your country's total clicks in this surprisingly addictive social experiment. Master essential clicking techniques including rhythm optimization, finger endurance, and clicking speed that allow you to achieve maximum clicks per second while maintaining consistency throughout extended clicking sessions. Develop advanced clicking strategies through timing patterns, ergonomic clicking methods, and endurance building that help you contribute significantly to global click counts while avoiding finger strain and repetitive stress injuries. Learn competitive clicking mechanics, global leaderboard systems, and community participation strategies that connect you with millions of other players worldwide while fostering healthy competition and national pride through collective clicking efforts. The game features adorable cat animations, simple yet engaging mechanics, and global community features that created one of the most unexpectedly popular internet phenomena in recent gaming history. Perfect for casual gamers, internet culture enthusiasts, and players who appreciate how simple concepts can unite global communities through shared participation in viral gaming experiences. Experience the power of viral game design and discover how the simplest mechanics can create massive global participation and community engagement through accessible, inclusive gameplay that transcends traditional gaming boundaries!",
+    "tags": ["Viral", "Clicking", "Community", "Cat", "Global"],
+    "category": "Casual"
   },
   {
     "name": "Portal Flash",
     "image": "portaltheflashversion.jpg",
     "url": "portalflash",
-    "new": false
+    "new": false,
+    "description": "Experience the mind-bending world of Portal Flash, a browser-based puzzle game that brings the revolutionary portal mechanics to your web browser! Use portal guns to create dimensional gateways that allow you to teleport across rooms, solve complex puzzles, and navigate through challenging test chambers. Master essential portal mechanics including momentum conservation, spatial reasoning, and creative problem-solving that allow you to think with portals and overcome seemingly impossible obstacles through innovative solutions. Develop advanced puzzle-solving skills through physics understanding, three-dimensional thinking, and logical analysis that help you master increasingly complex challenges requiring both creativity and scientific thinking. Learn progression systems, puzzle mechanics, and spatial navigation techniques that reward innovative thinking while encouraging experimentation with portal placement and momentum-based solutions to environmental challenges. The game features faithful portal physics, challenging puzzle design, and the iconic atmosphere that made the original Portal series legendary among puzzle gaming enthusiasts worldwide. Perfect for puzzle lovers, physics enthusiasts, and players who enjoy games that challenge conventional thinking through innovative mechanics and mind-bending spatial puzzles. Experience the revolutionary portal concept and discover how thinking outside conventional boundaries can solve any challenge through creative portal placement and physics manipulation!",
+    "tags": ["Portal", "Puzzle", "Physics", "Mind-bending", "Classic"],
+    "category": "Puzzle"
   },
   {
     "name": "Precision Client",
     "image": "logo.png",
     "url": "precision-client",
-    "new": false
+    "new": false,
+    "description": "Enhance your Minecraft experience with Precision Client, a feature-rich modification that provides advanced gameplay tools and performance optimizations for competitive and casual players alike! Access specialized features, improved graphics settings, and enhanced functionality that elevate standard Minecraft gameplay to professional levels. Master advanced client features including performance optimization, enhanced visuals, and specialized tools that allow you to achieve superior gameplay performance while maintaining compatibility with standard Minecraft servers and gameplay mechanics. Develop professional gaming skills through advanced configuration options, performance tuning, and feature customization that help you optimize your gaming setup for competitive play or enhanced casual gaming experiences. Learn client management techniques, performance optimization strategies, and feature utilization methods that maximize gaming performance while ensuring stable and reliable gameplay across all game modes and server types. The client features enhanced graphics capabilities, performance improvements, and specialized tools that create a superior Minecraft experience perfect for players seeking enhanced functionality and improved performance. Perfect for competitive Minecraft players, performance enthusiasts, and players who want to maximize their gaming experience through advanced client features and optimization tools. Experience enhanced Minecraft gameplay and discover how specialized clients can significantly improve gaming performance, visual quality, and overall gameplay satisfaction through professional-grade optimization and feature enhancement!",
+    "tags": ["Minecraft", "Client", "Performance", "Enhancement", "Professional"],
+    "category": "Tools"
   },
   {
     "name": "Protektor",
     "image": "splash.jpg",
     "url": "protektor",
-    "new": false
+    "new": false,
+    "description": "Become the ultimate guardian in Protektor, an action-packed defense game where you must protect valuable assets from waves of relentless attackers using strategic positioning, powerful weapons, and tactical thinking! Deploy defensive measures, upgrade your arsenal, and coordinate multiple defense systems to repel increasingly dangerous assault waves. Master essential defensive strategies including threat prioritization, resource allocation, and tactical positioning that allow you to efficiently protect your objectives while maximizing the effectiveness of your limited defensive resources. Develop advanced combat skills through weapon mastery, timing optimization, and battlefield awareness that help you overcome increasingly sophisticated enemy tactics and overwhelming numerical superiority through superior strategy and skill. Learn progression systems, upgrade mechanics, and defensive coordination techniques that unlock powerful new weapons and defensive options while providing multiple strategic approaches to each challenging defensive scenario. The game features intense action sequences, strategic depth, and satisfying defensive gameplay that creates an authentic protection experience perfect for strategy enthusiasts and action fans who enjoy tactical challenges. Perfect for defense game enthusiasts, tactical strategy fans, and players who enjoy games that combine real-time action with careful planning and resource management in high-stakes scenarios. Experience the satisfaction of perfect defense and discover how strategic thinking and tactical execution can overcome any threat through coordinated defensive action and superior tactical planning!",
+    "tags": ["Defense", "Strategy", "Action", "Tactical", "Protection"],
+    "category": "Strategy"
   },
   {
     "name": "Push the Square",
     "image": "img/splash.png",
     "url": "push-the-square",
-    "new": false
+    "new": false,
+    "description": "Test your spatial reasoning in Push the Square, a minimalist puzzle game that challenges you to manipulate geometric shapes through increasingly complex environments using simple but demanding mechanics! Move squares through tight spaces, navigate around obstacles, and solve spatial puzzles that test your ability to visualize movement in confined areas. Master essential spatial skills including path planning, obstacle navigation, and geometric manipulation that allow you to successfully guide squares through challenging mazes and environmental puzzles with precision and efficiency. Develop advanced problem-solving abilities through logical thinking, pattern recognition, and spatial visualization that help you overcome increasingly complex challenges requiring sophisticated understanding of geometric relationships and movement mechanics. Learn puzzle progression systems, spatial optimization techniques, and geometric problem-solving strategies that reward both systematic thinking and creative approaches to spatial challenges and environmental navigation puzzles. The game features clean minimalist graphics, intuitive controls, and progressively challenging puzzle design that creates an engaging intellectual experience perfect for puzzle enthusiasts who appreciate geometric challenges. Perfect for puzzle lovers, spatial reasoning fans, and players who enjoy games that exercise mathematical thinking and geometric visualization skills through engaging interactive challenges. Experience the satisfaction of geometric mastery and discover how simple square-pushing mechanics can create deeply engaging puzzle experiences that challenge spatial intelligence and problem-solving abilities!",
+    "tags": ["Puzzle", "Spatial", "Minimalist", "Geometric", "Logic"],
+    "category": "Puzzle"
   },
   {
     "name": "Push Your Luck",
     "image": "assets/img/push.png",
     "url": "push-your-luck",
-    "new": false
+    "new": false,
+    "description": "Test your risk assessment skills in Push Your Luck, a strategic gambling game that challenges you to make calculated decisions about when to continue and when to quit while managing probability and potential rewards! Balance potential gains against increasing risks as you decide whether to push forward or secure your current winnings. Master essential risk management skills including probability calculation, decision timing, and emotional control that allow you to maximize long-term profits while avoiding catastrophic losses through systematic risk assessment. Develop advanced gambling strategies through pattern recognition, statistical analysis, and psychological control that help you make optimal decisions under pressure while maintaining discipline in the face of both winning streaks and losing streaks. Learn progression mechanics, risk-reward optimization, and decision-making strategies that reward careful analysis and emotional regulation while teaching valuable lessons about probability, psychology, and financial risk management. The game features engaging decision mechanics, realistic probability simulation, and educational content about risk management that creates an informative experience about gambling psychology and statistical thinking. Perfect for strategy enthusiasts, psychology students, and players interested in learning about risk management, probability theory, and decision-making under uncertainty through interactive gameplay. Experience the psychology of risk-taking and discover how gambling mechanics can teach valuable lessons about probability, emotional control, and strategic decision-making through engaging and educational gameplay!",
+    "tags": ["Strategy", "Risk Management", "Gambling", "Psychology", "Decision Making"],
+    "category": "Strategy"
   },
   {
     "name": "Rabbit Samurai",
     "image": "splash.png",
     "url": "rabbit-samurai",
-    "new": false
+    "new": false,
+    "description": "Embark on an adorable adventure in Rabbit Samurai, a charming puzzle-platformer that follows a brave bunny warrior on a quest to rescue his woodland friends using ninja skills and determination! Navigate through beautifully designed levels while using grappling hooks, stealth abilities, and martial arts to overcome obstacles and enemies. Master essential ninja rabbit skills including grappling hook mechanics, stealth movement, and precise jumping that allow you to traverse challenging environments while maintaining the element of surprise against various woodland threats. Develop advanced platforming techniques through timing mastery, environmental interaction, and creative problem-solving that help you discover hidden paths and secret areas while rescuing trapped animal friends throughout your journey. Learn progression systems, ability unlocks, and exploration rewards that encourage thorough level exploration while providing new ninja techniques and equipment upgrades that enhance your rescue mission capabilities. The game features charming cartoon graphics, smooth platforming mechanics, and heartwarming themes about friendship and heroism that create an engaging family-friendly adventure perfect for players of all ages. Perfect for platformer enthusiasts, family gaming, and players who appreciate games that combine cute aesthetics with solid gameplay mechanics and positive messages about helping others. Experience the joy of heroic rescue missions and discover how combining ninja skills with adorable characters can create memorable gaming experiences that emphasize courage, friendship, and determination!",
+    "tags": ["Platform", "Ninja", "Cute", "Adventure", "Rescue"],
+    "category": "Platform"
   },
   {
     "name": "Rabbit Samurai 2",
     "image": "splash.png",
     "url": "rabbit-samurai2",
-    "new": false
+    "new": false,
+    "description": "Continue the heroic adventure in Rabbit Samurai 2, the charming sequel that expands upon the original's puzzle-platforming formula with new abilities, enhanced levels, and more challenging rescue missions! Help the brave bunny warrior save even more woodland creatures using improved ninja techniques and upgraded equipment. Master enhanced ninja abilities including advanced grappling mechanics, new stealth techniques, and improved combat skills that allow you to tackle more complex challenges while maintaining the series' signature blend of action and puzzle-solving. Develop superior platforming expertise through level design mastery, timing optimization, and creative route planning that help you discover all hidden secrets while achieving perfect completion ratings throughout your expanded rescue campaign. Learn upgraded progression systems, new ability unlocks, and enhanced customization options that provide greater depth and replayability while maintaining the accessible and family-friendly gameplay that made the original beloved by players worldwide. The sequel features improved graphics, smoother animations, and more varied level designs that create an enhanced adventure experience while preserving the charming atmosphere and positive themes of the original game. Perfect for fans of the original seeking more content, new players looking for quality platforming action, and families who enjoy games that combine engaging gameplay with wholesome themes and positive messaging. Experience the evolution of ninja rabbit heroism and discover how sequels can successfully build upon beloved formulas while introducing meaningful improvements and expanded content!",
+    "tags": ["Platform", "Sequel", "Ninja", "Enhanced", "Family-Friendly"],
+    "category": "Platform"
   },
   {
     "name": "Resent Client",
     "image": "splash.jpg",
     "url": "resent-client",
-    "new": false
+    "new": false,
+    "description": "Experience enhanced Minecraft gameplay with Resent Client, a powerful modification that provides advanced features, performance optimizations, and quality-of-life improvements for dedicated Minecraft players! Access specialized tools, enhanced graphics options, and improved functionality that elevate your gaming experience to professional standards. Master advanced client capabilities including performance tuning, visual enhancements, and specialized features that allow you to achieve optimal gameplay performance while maintaining full compatibility with standard servers. Develop professional gaming techniques through advanced configuration options, performance optimization, and feature customization that help you maximize your competitive advantage and overall gaming satisfaction. Learn client management strategies, performance optimization methods, and advanced feature utilization that provide superior gaming experiences across all Minecraft game modes and server environments. The client features enhanced performance capabilities, visual improvements, and specialized tools that create an optimized Minecraft experience perfect for competitive and casual players seeking enhanced functionality. Perfect for serious Minecraft players, performance enthusiasts, and competitive gamers who demand the best possible gaming experience through advanced client features and optimization tools. Experience the future of Minecraft gameplay and discover how specialized clients can transform your gaming experience through professional-grade features and performance enhancements!",
+    "tags": ["Minecraft", "Client", "Performance", "Enhancement", "Gaming"],
+    "category": "Tools"
   },
   {
     "name": "Retro Bowl",
     "image": "img/icon.jpg",
     "url": "retro-bowl",
-    "new": false
+    "new": false,
+    "description": "Experience classic American football in Retro Bowl, the nostalgic sports game that combines retro 8-bit aesthetics with deep team management and strategic gameplay! Build your dream football team through drafting, trading, and training while leading them to championship glory in this pixel-perfect tribute to classic football gaming. Master essential football strategy skills including play calling, roster management, and game situation analysis that allow you to outmaneuver opponents through superior tactical planning and team development rather than just execution skills. Develop advanced coaching abilities through player development, salary cap management, and team chemistry optimization that help you build sustainable championship contenders while managing the complex dynamics of professional sports organizations. Learn progression systems, team building mechanics, and strategic decision-making processes that reward both short-term tactical thinking and long-term franchise planning while teaching real football strategy and management principles. The game features authentic retro graphics, intuitive touch controls, and comprehensive team management that creates the perfect balance between nostalgic aesthetics and modern sports simulation depth. Perfect for football fans, retro gaming enthusiasts, and sports management fans who appreciate games that combine authentic sports strategy with accessible gameplay and charming visual design. Experience the golden age of football gaming and discover how retro aesthetics can enhance rather than limit modern sports simulation through focused design and strategic depth!",
+    "tags": ["Football", "Retro", "Sports Management", "Strategy", "8-bit"],
+    "category": "Sports"
   },
   {
     "name": "Riddle School",
     "image": "riddleschool.png",
     "url": "riddleschool",
-    "new": false
+    "new": false,
+    "description": "Escape from detention in Riddle School, the classic point-and-click adventure that started the beloved series about a student trying to escape from his boring school day! Solve puzzles, interact with classmates, and find creative ways to leave school grounds in this charming adventure game. Master essential adventure game skills including item interaction, puzzle logic, and character dialogue that allow you to discover the solution to escaping school through creative thinking and systematic exploration of your educational environment. Develop advanced problem-solving techniques through logical deduction, inventory management, and character interaction that help you understand how different school elements can be combined to create an escape plan. Learn adventure progression mechanics, puzzle-solving strategies, and exploration techniques that reward thorough investigation and creative thinking while encouraging players to think outside conventional school rules and expectations. The game features charming Flash graphics, memorable characters, and clever puzzle design that creates an entertaining school-based adventure perfect for puzzle enthusiasts and nostalgic gamers. Perfect for adventure game fans, puzzle enthusiasts, and players who appreciate classic point-and-click gameplay combined with school humor and creative escape scenarios. Experience the beginning of a legendary adventure series and discover how simple school settings can become the foundation for engaging puzzle adventures that combine humor with clever problem-solving challenges!",
+    "tags": ["Adventure", "Point-and-Click", "School", "Puzzle", "Classic"],
+    "category": "Adventure"
   },
   {
     "name": "Riddle School 2",
     "image": "riddleschool2.png",
     "url": "riddleschool2",
-    "new": false
+    "new": false,
+    "description": "Return to puzzle-solving adventures in Riddle School 2, the engaging sequel that expands the school escape concept with new challenges, characters, and more complex puzzles! Navigate through additional school areas while solving increasingly sophisticated riddles and interacting with a larger cast of memorable characters. Master enhanced adventure mechanics including expanded inventory systems, more complex character interactions, and multi-step puzzle solutions that require greater logical thinking and systematic approach to problem-solving than the original game. Develop advanced puzzle-solving skills through pattern recognition, logical deduction, and creative item combination that help you overcome more challenging obstacles while exploring expanded school environments and discovering new escape routes. Learn progression systems, character development, and story advancement techniques that provide deeper narrative engagement while maintaining the series' signature blend of humor, puzzle-solving, and school-based adventure elements. The sequel features improved graphics, expanded dialogue, and more sophisticated puzzle design that creates a more robust adventure experience while preserving the charm and accessibility of the original concept. Perfect for fans of the original seeking expanded content, adventure game enthusiasts, and players who appreciate how sequels can successfully build upon established formulas while introducing meaningful improvements. Experience the evolution of school-based puzzle adventures and discover how expanding familiar concepts can create fresh challenges while maintaining beloved gameplay elements and atmospheric charm!",
+    "tags": ["Adventure", "Sequel", "School", "Enhanced Puzzles", "Point-and-Click"],
+    "category": "Adventure"
   },
   {
     "name": "Riddle School 3",
     "image": "riddleschool3.png",
     "url": "riddleschool3",
-    "new": false
+    "new": false,
+    "description": "Continue the beloved adventure series in Riddle School 3, where the puzzle complexity reaches new heights with more intricate challenges, expanded environments, and deeper storyline elements! Explore new areas of the school while solving the most challenging puzzles yet in this acclaimed installment of the series. Master advanced puzzle mechanics including multi-layered riddles, complex item interactions, and sophisticated logical challenges that require systematic thinking and creative problem-solving approaches to overcome increasingly difficult obstacles. Develop expert-level adventure gaming skills through environmental analysis, character psychology understanding, and narrative progression tracking that help you navigate the most complex school escape scenario in the series. Learn sophisticated puzzle-solving strategies, advanced character interaction techniques, and complex progression systems that reward thorough exploration and deep thinking while maintaining the series' trademark humor and charm. This installment features the most polished graphics, most complex storyline, and most challenging puzzles in the series while preserving the accessibility and entertainment value that made the franchise beloved by adventure gaming enthusiasts. Perfect for series veterans seeking the ultimate challenge, puzzle game masters, and players who appreciate how adventure game series can evolve to provide increasingly sophisticated challenges while maintaining their core appeal. Experience the pinnacle of school-based puzzle adventures and discover how familiar settings can support increasingly complex and engaging puzzle design through creative iteration and refinement!",
+    "tags": ["Adventure", "Complex Puzzles", "School", "Series Peak", "Challenging"],
+    "category": "Adventure"
   },
   {
     "name": "Riddle School 4",
     "image": "riddleschool4.png",
     "url": "riddleschool4",
-    "new": false
+    "new": false,
+    "description": "Experience the penultimate chapter in Riddle School 4, where the series takes a dramatic turn with more complex narratives, advanced puzzle mechanics, and deeper character development! Navigate through expanded school environments while uncovering larger mysteries that extend beyond simple escape scenarios. Master sophisticated adventure elements including advanced character psychology, complex environmental puzzles, and multi-layered narrative progression that require both analytical thinking and emotional intelligence to fully understand and resolve. Develop expert puzzle-solving capabilities through intricate logical challenges, sophisticated item interactions, and complex character relationship management that help you navigate increasingly sophisticated social and environmental obstacles. Learn advanced progression systems, narrative complexity management, and character development tracking that reward deep engagement with both puzzle mechanics and storytelling elements while preparing players for the series' climactic conclusion. The game features enhanced production values, more sophisticated puzzle design, and deeper narrative elements that create the most ambitious installment in the series while maintaining the core appeal that made the franchise successful. Perfect for series completists, advanced puzzle enthusiasts, and players who appreciate how adventure game series can mature and evolve to provide increasingly sophisticated entertainment while respecting their foundational elements. Experience the series at its most ambitious and discover how familiar concepts can support increasingly complex narratives and challenging puzzle design through thoughtful evolution and creative expansion!",
+    "tags": ["Adventure", "Series Evolution", "Complex Narrative", "Advanced Puzzles", "Character Development"],
+    "category": "Adventure"
   },
   {
     "name": "Riddle School 5",
     "image": "riddleschool5.png",
     "url": "riddleschool5",
-    "new": false
+    "new": false,
+    "description": "Conclude the epic saga in Riddle School 5, the spectacular finale that brings the beloved series to its dramatic conclusion with the most complex puzzles, deepest storyline, and most satisfying resolution in the entire franchise! Experience the culmination of all previous adventures while facing the ultimate challenges that test everything learned throughout the series. Master the pinnacle of adventure gaming mechanics including expert-level puzzle integration, sophisticated character interaction systems, and complex narrative resolution techniques that require mastery of all previous game elements to fully appreciate and complete successfully. Develop ultimate puzzle-solving expertise through the most challenging riddles, most complex environmental interactions, and most sophisticated logical challenges ever presented in the series while bringing closure to beloved characters and long-running mysteries. Learn series conclusion techniques, narrative resolution strategies, and ultimate puzzle mastery approaches that reward dedicated series followers while providing satisfying closure to all established story elements and character arcs developed throughout the franchise. This finale features the highest production values, most sophisticated puzzle design, and most emotionally satisfying conclusion possible while honoring every element that made the series a beloved classic of adventure gaming. Perfect for series veterans seeking ultimate closure, puzzle game masters, and players who appreciate how long-running series can build to truly epic and satisfying conclusions through careful planning and dedicated craftsmanship. Experience the ultimate school adventure and discover how patient series development can create truly memorable gaming experiences that stand the test of time!",
+    "tags": ["Adventure", "Series Finale", "Epic Conclusion", "Ultimate Challenge", "Masterpiece"],
+    "category": "Adventure"
   },
   {
     "name": "Riddle Transfer",
     "image": "riddletransfer.png",
     "url": "riddletransfer",
-    "new": false
+    "new": false,
+    "description": "Begin a new chapter in Riddle Transfer, the spiritual successor to the beloved Riddle School series that expands the concept beyond school settings into mysterious new environments! Experience familiar puzzle-solving mechanics in entirely new contexts while discovering what lies beyond the school walls in this exciting series evolution. Master evolved adventure mechanics including expanded environmental interaction, sophisticated puzzle design, and enhanced character development that build upon the foundation established by the original series while introducing fresh concepts and challenges. Develop advanced exploration skills through new environment navigation, complex mystery solving, and sophisticated character interaction that help you uncover the truth behind the mysterious transfer while maintaining the series' signature blend of humor and challenge. Learn progression systems, mystery-solving techniques, and exploration rewards that honor the legacy of the original series while establishing new traditions and gameplay elements that expand the franchise in exciting new directions. The game features updated graphics, enhanced puzzle complexity, and expanded narrative scope that creates a worthy successor to the beloved original series while establishing its own unique identity and appeal. Perfect for Riddle School veterans seeking new adventures, puzzle enthusiasts looking for evolved gameplay, and players who appreciate how successful series can branch into new directions while maintaining their core strengths. Experience the evolution of a beloved franchise and discover how familiar puzzle-solving concepts can support entirely new adventures and storytelling opportunities through creative expansion and thoughtful development!",
+    "tags": ["Adventure", "Series Evolution", "New Chapter", "Enhanced Puzzles", "Mystery"],
+    "category": "Adventure"
   },
   {
     "name": "Riddle Transfer 2",
     "image": "riddletransfer2.png",
     "url": "riddletransfer2",
-    "new": false
+    "new": false,
+    "description": "Continue the mysterious adventure in Riddle Transfer 2, the compelling sequel that deepens the mystery and expands the puzzle complexity while maintaining the beloved elements that made the Transfer series a worthy successor to Riddle School! Explore new environments while unraveling deeper mysteries that challenge both puzzle-solving skills and narrative comprehension. Master advanced adventure mechanics including complex environmental puzzles, sophisticated character interaction systems, and multi-layered mystery elements that require both analytical thinking and intuitive understanding to solve successfully. Develop expert investigation skills through clue analysis, character psychology interpretation, and environmental storytelling that help you piece together the larger mystery while enjoying the satisfying puzzle-solving gameplay that defines the series. Learn enhanced progression systems, mystery advancement techniques, and exploration optimization strategies that reward thorough investigation while providing increasingly sophisticated challenges that test the limits of adventure gaming problem-solving. The sequel features improved graphics, more complex narrative elements, and sophisticated puzzle design that creates the most polished entry in the Transfer series while building toward even greater mysteries and challenges. Perfect for Transfer series fans seeking expanded adventures, mystery enthusiasts who appreciate deep puzzle integration, and players who enjoy games that successfully balance puzzle mechanics with compelling storytelling and character development. Experience the deepening mystery and discover how adventure game sequels can successfully expand upon established foundations while introducing meaningful innovations and enhanced complexity!",
+    "tags": ["Adventure", "Mystery Sequel", "Complex Puzzles", "Deep Story", "Investigation"],
+    "category": "Adventure"
   },
   {
     "name": "Rolling Forests",
     "image": "icon.png",
     "url": "rolling-forests",
-    "new": false
+    "new": false,
+    "description": "Explore enchanted woodlands in Rolling Forests, a peaceful adventure game that combines nature exploration with gentle puzzle mechanics in beautiful forest environments! Roll through mystical landscapes while discovering hidden secrets and solving environmental puzzles that celebrate the beauty of natural settings. Master essential exploration skills including terrain navigation, environmental observation, and gentle puzzle-solving that allow you to fully appreciate the magical forest environments while uncovering their hidden mysteries and natural wonders. Develop advanced nature interaction techniques through ecosystem understanding, wildlife observation, and environmental harmony that help you connect with the natural world while solving puzzles that respect and celebrate forest ecology. Learn progression systems, exploration rewards, and environmental interaction mechanics that encourage thorough exploration while teaching appreciation for natural beauty and environmental conservation through engaging interactive experiences. The game features stunning forest graphics, calming nature sounds, and peaceful gameplay mechanics that create a truly relaxing and educational experience perfect for nature lovers and peaceful gaming enthusiasts. Perfect for relaxation seekers, nature enthusiasts, and players who appreciate games that prioritize environmental beauty and peaceful interaction over competitive challenges or stressful mechanics. Experience the tranquility of virtual forest exploration and discover how games can foster appreciation for natural environments while providing therapeutic relaxation and gentle entertainment through beautiful, immersive nature experiences!",
+    "tags": ["Nature", "Peaceful", "Exploration", "Forest", "Relaxing"],
+    "category": "Adventure"
   },
   {
     "name": "Rolly Vortex",
     "image": "icon-256.png",
     "url": "rolly-vortex",
-    "new": false
+    "new": false,
+    "description": "Navigate through swirling challenges in Rolly Vortex, an intense rolling game that tests your reflexes and spatial awareness as you guide a ball through constantly rotating tunnel environments! Avoid obstacles while maintaining momentum through twisting, turning passages that challenge your ability to adapt to changing orientations. Master essential rolling mechanics including momentum control, directional adaptation, and obstacle avoidance that allow you to survive longer runs while maintaining speed through increasingly complex and disorienting tunnel systems. Develop advanced spatial skills through orientation management, rotation adaptation, and pattern recognition that help you anticipate upcoming challenges while maintaining control through vertigo-inducing environmental changes and perspective shifts. Learn progression systems, scoring optimization, and tunnel navigation techniques that reward both quick reflexes and strategic thinking while encouraging mastery of the game's unique rotating perspective mechanics. The game features stunning 3D graphics, smooth rotation effects, and challenging tunnel designs that create an engaging and disorienting experience perfect for players who enjoy spatial challenges and reflex-based gameplay. Perfect for reflex gaming enthusiasts, spatial challenge seekers, and players who enjoy games that test adaptation skills and spatial reasoning through innovative perspective mechanics and challenging obstacle navigation. Experience the thrill of dimensional navigation and discover how rotating environments can create uniquely challenging gameplay that tests spatial intelligence and adaptive reflexes through creative game design!",
+    "tags": ["Rolling", "3D", "Spatial", "Reflex", "Tunnel"],
+    "category": "Arcade"
   },
   {
     "name": "Rooftop Snipers",
     "image": "img/thumb.png",
     "url": "rooftop-snipers",
-    "new": false
+    "new": false,
+    "description": "Engage in high-altitude duels in Rooftop Snipers, an intense multiplayer shooting game that combines precision marksmanship with physics-based combat on precarious rooftop environments! Battle against opponents while managing balance, wind effects, and environmental hazards that add complexity to traditional shooting mechanics. Master essential sniping skills including aim precision, timing coordination, and balance management that allow you to eliminate targets while maintaining stable positioning on unstable rooftop surfaces affected by realistic physics simulation. Develop advanced combat strategies through environmental awareness, wind compensation, and tactical positioning that help you gain advantages over opponents while managing the unique challenges of rooftop warfare and elevation-based combat scenarios. Learn weapon handling mechanics, physics interaction systems, and competitive tactics that reward both marksmanship accuracy and strategic thinking while encouraging adaptation to dynamic environmental conditions and opponent strategies. The game features realistic physics simulation, challenging environmental conditions, and competitive multiplayer action that creates an authentic rooftop combat experience perfect for tactical shooters and precision gaming enthusiasts. Perfect for competitive multiplayer fans, precision shooting enthusiasts, and players who enjoy games that combine marksmanship skills with environmental challenge and physics-based gameplay mechanics. Experience the ultimate test of precision shooting and discover how environmental physics can enhance competitive shooting gameplay through realistic challenge and tactical complexity!",
+    "tags": ["Multiplayer", "Shooting", "Physics", "Precision", "Rooftop"],
+    "category": "Action"
   },
   {
     "name": "Ruffle",
     "image": "splash.png",
     "url": "ruffle",
-    "new": false
+    "new": false,
+    "description": "Experience Flash gaming preservation with Ruffle, the revolutionary Flash Player emulator that brings classic Flash games and animations back to life in modern browsers! Access a vast library of nostalgic Flash content that was previously inaccessible due to Adobe Flash Player's discontinuation. Master essential retro gaming navigation including Flash interface interaction, classic game controls, and nostalgic content exploration that allow you to rediscover beloved Flash games and animations from gaming history. Develop appreciation for gaming history through classic Flash experience, retro game mechanics, and historical context understanding that help you understand the evolution of browser-based gaming and interactive web content. Learn emulation technology, content preservation methods, and digital archaeology principles that highlight the importance of preserving gaming history and cultural digital artifacts for future generations of players and researchers. The emulator features accurate Flash reproduction, comprehensive game compatibility, and user-friendly interface that creates an authentic retro gaming experience while supporting digital preservation efforts and historical gaming research. Perfect for retro gaming enthusiasts, digital preservation advocates, and players interested in experiencing gaming history and classic web-based interactive content that shaped early internet culture. Experience the renaissance of Flash gaming and discover how emulation technology can preserve and revitalize classic digital entertainment that might otherwise be lost to technological progress and platform obsolescence!",
+    "tags": ["Flash Emulator", "Retro Gaming", "Preservation", "Classic", "Historical"],
+    "category": "Tools"
   },
   {
     "name": "Slap The Monkey",
     "image": "slap-the-monkey.jpg",
     "url": "slap-the-monkey",
-    "new": false
+    "new": false,
+    "description": "Release stress in the classic Slap The Monkey, a simple stress-relief game that provides harmless virtual interaction for therapeutic entertainment! Click to interact with the monkey character while enjoying satisfying sound effects and animations in this timeless stress-relief classic. Master essential stress relief techniques including rhythm clicking, timing coordination, and tension release that allow you to use virtual interaction as a healthy outlet for frustration and negative emotions. Develop therapeutic gaming skills through repetitive interaction, emotional regulation, and stress management that help transform negative energy into harmless entertainment while promoting better emotional balance. Learn stress relief mechanics, therapeutic interaction principles, and emotional outlet strategies that make this game an effective tool for quick stress relief and emotional regulation during difficult periods. The game features simple graphics, satisfying interaction feedback, and classic stress-relief gameplay that creates a nostalgic experience designed specifically for therapeutic entertainment rather than competitive achievement. Perfect for stress relief, nostalgic gaming, and anyone seeking simple, effective tools for managing daily stress and frustration through harmless virtual interaction. Experience classic stress relief gaming and discover how simple interaction mechanics can provide effective emotional outlet and stress management through timeless, accessible design that focuses on therapeutic value over complex gameplay!",
+    "tags": ["Stress Relief", "Classic", "Therapeutic", "Simple", "Interactive"],
+    "category": "Casual"
   },
   {
     "name": "Sand Game",

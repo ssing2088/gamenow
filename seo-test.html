@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO URL Testing - Gamenow.net</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
+        .success { background-color: #e8f5e9; border-color: #4caf50; }
+        .error { background-color: #ffebee; border-color: #f44336; }
+        .url-list { columns: 2; column-gap: 20px; }
+        .url-list a { display: block; margin: 5px 0; }
+    </style>
+</head>
+<body>
+    <h1>SEO URL System Test Page</h1>
+    
+    <div class="test-section">
+        <h2>Current URL Analysis</h2>
+        <p><strong>Current URL:</strong> <span id="currentUrl"></span></p>
+        <p><strong>Pathname:</strong> <span id="pathname"></span></p>
+        <p><strong>Search params:</strong> <span id="searchParams"></span></p>
+    </div>
+
+    <div class="test-section">
+        <h2>URL Format Detection</h2>
+        <div id="urlDetection"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>Sample SEO-Friendly Game URLs</h2>
+        <div class="url-list" id="gameUrls">
+            <!-- URLs will be loaded here -->
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Sitemap Statistics</h2>
+        <div id="sitemapStats">Loading...</div>
+    </div>
+
+    <script>
+        // Display current URL information
+        document.getElementById('currentUrl').textContent = window.location.href;
+        document.getElementById('pathname').textContent = window.location.pathname;
+        document.getElementById('searchParams').textContent = window.location.search || 'None';
+
+        // Detect URL format
+        const pathSegments = window.location.pathname.split('/');
+        let urlDetection = '';
+        
+        if (pathSegments[1] === 'game' && pathSegments[2]) {
+            urlDetection = `<div class="success">✓ SEO-friendly game URL detected: /game/${pathSegments[2]}</div>`;
+        } else if (window.location.search.includes('gameurl=')) {
+            urlDetection = `<div class="error">⚠ Old-style URL with query parameters detected</div>`;
+        } else {
+            urlDetection = `<div>ℹ Regular page (not a game page)</div>`;
+        }
+        
+        document.getElementById('urlDetection').innerHTML = urlDetection;
+
+        // Load and display sample game URLs
+        async function loadGameUrls() {
+            try {
+                const response = await fetch('/config/games.json');
+                const games = await response.json();
+                
+                const gameUrlsHtml = games.slice(0, 20).map(game => 
+                    `<a href="/game/${game.url}" target="_blank">/game/${game.url} - ${game.name}</a>`
+                ).join('');
+                
+                document.getElementById('gameUrls').innerHTML = gameUrlsHtml;
+                
+                // Display statistics
+                document.getElementById('sitemapStats').innerHTML = `
+                    <p><strong>Total games:</strong> ${games.length}</p>
+                    <p><strong>Sitemap should contain:</strong> ${games.length + 1} URLs (${games.length} games + homepage)</p>
+                    <p><strong>All games now have SEO-friendly URLs</strong> in format: /game/[gamename]</p>
+                `;
+                
+            } catch (error) {
+                document.getElementById('gameUrls').innerHTML = '<p class="error">Failed to load games data</p>';
+                document.getElementById('sitemapStats').innerHTML = '<p class="error">Failed to load statistics</p>';
+            }
+        }
+
+        loadGameUrls();
+    </script>
+</body>
+</html>

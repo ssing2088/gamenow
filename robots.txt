@@ -4,14 +4,21 @@ Allow: /
 # Sitemap
 Sitemap: https://gamenow.net/sitemap.xml
 
-# Block common bot paths
-Disallow: /config/
+# Allow access to games data and public assets
+Allow: /config/games.json
+Allow: /config/*.css
+Allow: /config/*.js
+
+# Block sensitive files and directories
+Disallow: /config/*.json
+Allow: /config/games.json
 Disallow: /.git/
 Disallow: /.github/
 
 # Allow important pages
 Allow: /play.html
 Allow: /index.html
+Allow: /game/
 
-# Crawl delay
+# Crawl delay to be respectful to server
 Crawl-delay: 1

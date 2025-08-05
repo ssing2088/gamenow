@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Game Not Found | Gamenow.net</title>
+    <meta name="description" content="Sorry, the game you're looking for cannot be found. Browse our collection of free unblocked games." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href="https://gamenow.net/" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            max-width: 600px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+        h1 { font-size: 4em; margin: 0; }
+        h2 { margin: 20px 0; }
+        p { font-size: 1.2em; line-height: 1.6; }
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: #fff;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 25px;
+            margin: 10px;
+            font-weight: bold;
+            transition: transform 0.3s;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <h2>Game Not Found</h2>
+        <p>Oops! The game you're looking for doesn't exist or may have been moved.</p>
+        <p>Don't worry, we have hundreds of other amazing games waiting for you!</p>
+        <a href="/" class="btn">🏠 Back to Home</a>
+        <a href="#" onclick="history.back()" class="btn">⬅️ Go Back</a>
+    </div>
+    
+    <script>
+        // Auto-redirect after 5 seconds
+        setTimeout(() => {
+            window.location.href = '/';
+        }, 5000);
+    </script>
+</body>
+</html>
