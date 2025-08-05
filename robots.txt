@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gamenow.net/sitemap.xml
+
+# Block common bot paths
+Disallow: /config/
+Disallow: /.git/
+Disallow: /.github/
+
+# Allow important pages
+Allow: /play.html
+Allow: /index.html
+
+# Crawl delay
+Crawl-delay: 1

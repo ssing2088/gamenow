@@ -3,23 +3,82 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home</title>
+    <title>Gamenow.net - Free Unblocked Games Online | Play 293+ Games Now</title>
+    <meta name="description" content="Play 293+ free unblocked games online at Gamenow.net. Enjoy Slope, Minecraft, 2048, and more popular games. No downloads required - instant play in your browser!" />
+    <meta name="keywords" content="unblocked games, free games, online games, slope, minecraft, 2048, school games, browser games" />
+    <meta name="author" content="Gamenow.net" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://gamenow.net/" />
+    <meta property="og:title" content="Gamenow.net - Free Unblocked Games Online" />
+    <meta property="og:description" content="Play 293+ free unblocked games online. No downloads required - instant play in your browser!" />
+    <meta property="og:image" content="https://gamenow.net/nativess.png" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://gamenow.net/" />
+    <meta property="twitter:title" content="Gamenow.net - Free Unblocked Games Online" />
+    <meta property="twitter:description" content="Play 293+ free unblocked games online. No downloads required - instant play in your browser!" />
+    <meta property="twitter:image" content="https://gamenow.net/nativess.png" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/native.png" />
+    <link rel="canonical" href="https://gamenow.net/" />
+    
+    <!-- Preload critical resources -->
+    <link rel="preload" href="config/main.css" as="style" />
+    <link rel="preload" href="config/games.json" as="fetch" crossorigin />
+    
     <link rel="stylesheet" href="config/main.css" />
     <script src="config/main.js" type="module"></script>
+    
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Gamenow.net",
+      "description": "Free unblocked games online platform",
+      "url": "https://gamenow.net",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://gamenow.net/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Gamenow.net",
+        "url": "https://gamenow.net"
+      }
+    }
+    </script>
   </head>
   <body>
-    <div class="center">
-      <h1 id="title"></h1>
-      <p id="subtitle"></p>
-    </div>
-    <div class="center">
-      <input type="text" id="searchInput" placeholder="Search games" />
-    </div>
-    <div id="gamesContainer"></div>
-    <div class="footer">
+    <header>
+      <div class="center">
+        <h1 id="title"></h1>
+        <p id="subtitle"></p>
+      </div>
+    </header>
+    
+    <main>
+      <section class="search-section">
+        <div class="center">
+          <input type="text" id="searchInput" placeholder="Search games" aria-label="Search games" />
+        </div>
+      </section>
+      
+      <section class="games-section">
+        <div id="gamesContainer" role="main" aria-label="Games collection"></div>
+      </section>
+    </main>
+    
+    <footer class="footer">
       <a style="font-weight: 700">a site by
       </a><a style="font-weight: 700" class="link" href="https://dsc.gg/parcoil">parcoil network</a>
-    </div>
+    </footer>
   </body>
 </html>
 

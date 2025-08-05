@@ -3,7 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home</title>
+    <title>Loading Game - Gamenow.net</title>
+    <meta name="description" content="Play free unblocked games online at Gamenow.net. Instant browser gaming with no downloads required." />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" id="canonical-link" href="https://gamenow.net/play.html" />
 
     <script src="config/main.js" type="module"></script>
     <style>
@@ -17,24 +20,126 @@
         height: 100vh;
         border: none;
       }
+      
+      .loading {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: Arial, sans-serif;
+        font-size: 18px;
+        color: #333;
+        z-index: 1000;
+      }
+      
+      .error {
+        text-align: center;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+      }
     </style>
   </head>
   <body>
-    <iframe id="gameFrame"></iframe>
+    <div id="loadingIndicator" class="loading">Loading game...</div>
+    <iframe id="gameFrame" title="Game Player" loading="lazy"></iframe>
 
     <script>
       var serverUrl1 = "https://gms.parcoil.com";
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const gameUrl = urlParams.get("gameurl");
+      const gameName = urlParams.get("gamename");
 
-      if (!gameUrl) {
-        alert("Game URL not provided!");
-        window.location.href = "/"; // Redirect to homepage if game URL is missing
-      } else {
-        const embedUrl = `${serverUrl1}/${gameUrl}`;
-        document.getElementById("gameFrame").src = embedUrl;
+      // Fetch game data for SEO optimization
+      async function loadGameData() {
+        try {
+          const response = await fetch('/config/games.json');
+          const gamesData = await response.json();
+          const currentGame = gamesData.find(game => game.url === gameUrl.replace('/', ''));
+          
+          if (currentGame) {
+            // Set dynamic page title
+            document.title = `${currentGame.name} - Free Online Unblocked Game | Gamenow.net`;
+            
+            // Update meta description with game description
+            const metaDesc = document.querySelector('meta[name="description"]');
+            metaDesc.content = `Play ${currentGame.name} free online at Gamenow.net. ${currentGame.description || ''} Unblocked games that work at school and office. No downloads required!`;
+            
+            // Add meta keywords
+            if (currentGame.tags && currentGame.tags.length > 0) {
+              const keywordsMeta = document.createElement('meta');
+              keywordsMeta.name = 'keywords';
+              keywordsMeta.content = `${currentGame.name}, ${currentGame.tags.join(', ')}, unblocked games, free games, online games`;
+              document.head.appendChild(keywordsMeta);
+            }
+            
+            // Update canonical URL
+            const canonical = document.getElementById('canonical-link');
+            canonical.href = `https://gamenow.net/play.html?gameurl=${gameUrl}&gamename=${encodeURIComponent(currentGame.name)}`;
+            
+            // Enhanced JSON-LD structured data
+            const jsonLD = {
+              "@context": "https://schema.org",
+              "@type": "Game",
+              "name": currentGame.name,
+              "description": currentGame.description || `Play ${currentGame.name} free online browser game`,
+              "url": window.location.href,
+              "genre": currentGame.category || "Browser Game",
+              "playMode": "SinglePlayer",
+              "applicationCategory": "Game",
+              "operatingSystem": "Web Browser",
+              "keywords": currentGame.tags ? currentGame.tags.join(', ') : undefined,
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Gamenow.net",
+                "url": "https://gamenow.net"
+              }
+            };
+            
+            const script = document.createElement('script');
+            script.type = 'application/ld+json';
+            script.textContent = JSON.stringify(jsonLD);
+            document.head.appendChild(script);
+          }
+        } catch (error) {
+          console.error('Failed to load game data:', error);
+          // Fallback to basic SEO if JSON fails
+          if (gameName) {
+            document.title = `${gameName} - Play Free Online | Gamenow.net Unblocked Games`;
+          }
+        }
       }
+
+      // Load game data first, then initialize game
+      loadGameData().then(() => {
+        if (!gameUrl) {
+          document.body.innerHTML = '<div class="error"><h1>Game Not Found</h1><p>The requested game could not be loaded.</p><a href="/">Return to Homepage</a></div>';
+        } else {
+          const embedUrl = `${serverUrl1}/${gameUrl}`;
+          const iframe = document.getElementById("gameFrame");
+          
+          // Show loading indicator
+          iframe.onload = () => {
+            document.getElementById('loadingIndicator').style.display = 'none';
+          };
+          
+          iframe.onerror = () => {
+            document.getElementById('loadingIndicator').innerHTML = 'Failed to load game. <a href="/">Return to Homepage</a>';
+          };
+          
+          iframe.src = embedUrl;
+
+          // Send tracking event when game loads
+          if (typeof trackGameClick !== 'undefined') {
+            trackGameClick(gameName || gameUrl);
+          }
+        }
+      });
     </script>
   </body>
 </html>
