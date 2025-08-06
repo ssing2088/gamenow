@@ -12,7 +12,7 @@ var subtext = "Play Game Freely!"; // set the subtext
 
 import "/./config/custom.js";
 
-var serverUrl1 = "https://gamenow.net";
+var serverUrl1 = "https://gms.parcoil.com";
 var currentPageTitle = document.title;
 document.title = `${currentPageTitle} | ${sitename}`;
 let gamesData = []; 
