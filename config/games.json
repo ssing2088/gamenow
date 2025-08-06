@@ -1875,61 +1875,91 @@
     "name": "Sand Game",
     "image": "sand-game.PNG",
     "url": "sand-game",
-    "new": false
+    "new": false,
+    "description": "Create mesmerizing patterns in Sand Game, a relaxing physics simulation that lets you interact with virtual sand particles in a soothing digital sandbox environment! Experiment with different particle behaviors, colors, and physics settings while creating beautiful flowing sand art. Master essential particle interaction skills including flow control, pattern creation, and physics manipulation that allow you to create stunning visual displays through understanding of granular physics and particle dynamics. Develop artistic creativity through digital sand sculpting, color combination, and pattern design that help you express your artistic vision while learning about physics principles and particle behavior in interactive environments. Learn simulation mechanics, particle physics principles, and creative expression techniques that encourage experimentation while providing therapeutic relaxation through meditative sand manipulation and artistic creation. The game features realistic sand physics, customizable particle properties, and infinite creative possibilities that create a calming and educational experience perfect for stress relief and artistic exploration. Perfect for relaxation seekers, physics enthusiasts, and creative minds who enjoy sandbox-style games that prioritize artistic expression and therapeutic interaction over competitive gameplay. Experience the zen of digital sand art and discover how simple particle physics can create endless opportunities for creative expression and peaceful meditation through interactive sand simulation!",
+    "tags": ["Physics", "Simulation", "Sand", "Relaxing", "Creative"],
+    "category": "Simulation"
   },
   {
     "name": "Sandboxels",
     "image": "sandboxels.jpg",
     "url": "sandboxels",
-    "new": false
+    "new": false,
+    "description": "Explore the fascinating world of particle simulation in Sandboxels, an advanced physics sandbox that lets you experiment with hundreds of different elements and watch them interact in realistic ways! Mix elements, create reactions, and observe complex chemistry-like interactions in this comprehensive particle playground. Master essential element interaction skills including chemical combination, reaction prediction, and system dynamics that allow you to create complex simulations and understand how different materials behave when combined together. Develop scientific thinking through experimental methodology, hypothesis testing, and observation analysis that help you discover new element combinations while learning fundamental principles of chemistry and physics through hands-on experimentation. Learn simulation mechanics, element properties, and reaction systems that encourage scientific curiosity while providing educational value through interactive chemistry and physics demonstrations that make abstract concepts tangible and understandable. The game features hundreds of unique elements, realistic particle physics, and complex interaction systems that create an educational laboratory experience perfect for science enthusiasts and curious learners. Perfect for science education, creative experimentation, and anyone interested in chemistry, physics, or engineering who enjoys hands-on learning through interactive simulation and scientific discovery. Experience the joy of scientific discovery and learn how different elements interact in nature through this comprehensive and educational particle simulation that brings chemistry to life!",
+    "tags": ["Physics", "Chemistry", "Simulation", "Educational", "Elements"],
+    "category": "Educational"
   },
   {
     "name": "Santy is Home",
     "image": "splash.png",
     "url": "santy-is-home",
-    "new": false
+    "new": false,
+    "description": "Help Santa navigate his way home in Santy is Home, a charming Christmas-themed adventure game that combines festive spirit with engaging puzzle-solving mechanics! Guide Santa through winter wonderlands while overcoming obstacles and collecting presents in this heartwarming holiday experience. Master essential Christmas adventure skills including gift collection, obstacle navigation, and seasonal puzzle-solving that allow you to spread holiday cheer while ensuring Santa makes it safely home for Christmas. Develop problem-solving abilities through winter-themed challenges, route planning, and resource management that help you overcome increasingly complex obstacles while maintaining the magical spirit of the holiday season. Learn progression mechanics, Christmas lore integration, and festive gameplay systems that celebrate holiday traditions while providing entertaining challenges that capture the wonder and joy of Christmas celebrations. The game features beautiful Christmas graphics, festive music, and heartwarming themes that create an authentic holiday experience perfect for family gaming and seasonal entertainment during the Christmas period. Perfect for holiday gaming, family entertainment, and players who appreciate Christmas-themed content that combines festive atmosphere with engaging gameplay mechanics and positive messaging. Experience the magic of Christmas gaming and discover how holiday themes can enhance gaming experiences through seasonal atmosphere, festive challenges, and celebration of Christmas traditions and values!",
+    "tags": ["Christmas", "Holiday", "Adventure", "Family-Friendly", "Festive"],
+    "category": "Adventure"
   },
   {
     "name": "Scrap Metal",
     "image": "img/splash.png",
     "url": "scrapmetal",
-    "new": false
+    "new": false,
+    "description": "Build and battle with mechanical warriors in Scrap Metal, an action-packed combat game where you construct powerful fighting machines from salvaged parts and engage in intense robotic warfare! Customize your mech with weapons, armor, and special abilities while competing in high-stakes combat tournaments. Master essential mech combat skills including weapon targeting, defensive positioning, and tactical maneuvering that allow you to dominate the arena through superior strategy and mechanical engineering rather than just firepower alone. Develop advanced engineering abilities through component optimization, loadout customization, and battle analysis that help you create the ultimate fighting machine while understanding the relationship between design choices and combat effectiveness. Learn progression systems, upgrade mechanics, and combat optimization strategies that reward both creative engineering and tactical thinking while encouraging experimentation with different combat styles and mechanical configurations. The game features intense mech combat, deep customization options, and competitive multiplayer action that creates an authentic robotic warfare experience perfect for strategy enthusiasts and mechanical engineering fans. Perfect for combat game enthusiasts, engineering minds, and players who enjoy games that combine creative building with strategic combat and mechanical customization systems. Experience the thrill of robotic warfare and discover how engineering creativity can determine victory through innovative mech design and tactical combat mastery!",
+    "tags": ["Mech Combat", "Customization", "Strategy", "Engineering", "Robots"],
+    "category": "Action"
   },
   {
     "name": "Shell Shockers",
     "image": "img/favicon.png",
     "url": "shellshockers",
-    "new": false
+    "new": false,
+    "description": "Crack into intense egg-based warfare in Shell Shockers, the wildly popular multiplayer FPS that transforms players into armed eggs battling for supremacy in fast-paced competitive combat! Choose your weapon class and engage in hilarious yet competitive battles across various game modes and maps. Master essential FPS skills including precise aiming, movement mechanics, and tactical positioning that allow you to dominate the battlefield through superior marksmanship and strategic thinking rather than luck or button mashing. Develop advanced combat strategies through weapon mastery, map knowledge, and team coordination that help you achieve consistent victory while understanding different playstyles and optimal approaches for various combat scenarios. Learn competitive gaming mechanics, team-based tactics, and skill progression systems that reward dedication and practice while fostering a vibrant community of players who appreciate both humor and competitive excellence. The game features smooth multiplayer action, diverse weapon classes, and regularly updated content that creates an engaging competitive experience perfect for FPS enthusiasts who appreciate unique themes and solid gameplay. Perfect for competitive gamers, FPS enthusiasts, and players who enjoy multiplayer action that combines humor with serious competitive mechanics and skill-based gameplay progression. Experience the unexpected depth of egg warfare and discover how creative themes can enhance traditional FPS gameplay through innovative design and community-focused development!",
+    "tags": ["FPS", "Multiplayer", "Competitive", "Egg", "Online"],
+    "category": "Action"
   },
   {
     "name": "Shot in the Dark",
     "image": "shot.png",
     "url": "shotinthedark",
-    "new": false
+    "new": false,
+    "description": "Test your precision in challenging conditions in Shot in the Dark, an atmospheric shooting game that emphasizes accuracy and timing in low-visibility environments! Navigate through dark scenarios while maintaining accuracy under pressure and limited visibility. Master essential marksmanship skills including target acquisition, breathing control, and shot timing that allow you to maintain accuracy even when visibility is severely limited and pressure is at its highest levels. Develop advanced shooting techniques through environmental adaptation, sensory awareness, and concentration mastery that help you overcome the unique challenges of low-light combat scenarios and high-pressure situations. Learn precision mechanics, accuracy optimization, and focus techniques that reward patient observation and careful aim while teaching valuable lessons about concentration, patience, and precision under challenging conditions. The game features atmospheric lighting, realistic shooting mechanics, and challenging visibility conditions that create an authentic marksmanship experience perfect for precision shooting enthusiasts and tactical gaming fans. Perfect for shooting sports enthusiasts, precision gaming fans, and players who appreciate games that emphasize skill development over rapid-fire action through realistic challenge and atmospheric design. Experience the ultimate test of shooting precision and discover how environmental challenges can enhance shooting gameplay through realistic conditions and skill-based progression systems!",
+    "tags": ["Shooting", "Precision", "Dark", "Atmospheric", "Skill"],
+    "category": "Action"
   },
   {
     "name": "Shuttle Deck",
     "image": "splash.png",
     "url": "shuttledeck",
-    "new": false
+    "new": false,
+    "description": "Command a space shuttle in Shuttle Deck, a strategic space simulation that combines spacecraft management with tactical decision-making in challenging space environments! Manage ship systems, navigate through space hazards, and complete critical missions while maintaining crew safety and mission objectives. Master essential space command skills including resource allocation, system prioritization, and crisis management that allow you to successfully navigate complex space scenarios while keeping your crew and spacecraft operational under pressure. Develop advanced space leadership abilities through tactical planning, emergency response, and multi-system coordination that help you overcome increasingly challenging space missions while understanding the complexities of space exploration and command responsibility. Learn simulation mechanics, space physics principles, and command decision systems that reward strategic thinking and careful planning while teaching valuable lessons about space exploration, leadership, and resource management under extreme conditions. The game features realistic space environments, detailed spacecraft systems, and challenging mission scenarios that create an authentic space command experience perfect for space simulation enthusiasts and strategic thinkers. Perfect for space enthusiasts, simulation fans, and strategic gamers who appreciate realistic space exploration themes combined with command responsibility and tactical decision-making challenges. Experience the challenges of space command and discover how realistic space simulation can create engaging gameplay that combines education with entertainment through authentic space exploration scenarios!",
+    "tags": ["Space", "Simulation", "Strategy", "Command", "Management"],
+    "category": "Simulation"
   },
   {
     "name": "Sky Car Stunt",
     "image": "512x512.jpg",
     "url": "sky-car-stunt",
-    "new": false
+    "new": false,
+    "description": "Perform death-defying aerial stunts in Sky Car Stunt, an extreme racing game that takes automotive acrobatics to new heights with gravity-defying tracks suspended high in the sky! Execute spectacular jumps, loops, and stunts while maintaining control of your vehicle through challenging aerial courses. Master essential stunt driving skills including airborne control, landing precision, and momentum management that allow you to successfully navigate impossible tracks while performing spectacular automotive feats that would be deadly in real life. Develop advanced extreme driving techniques through aerial maneuvering, stunt timing, and physics manipulation that help you achieve perfect runs while understanding the relationship between speed, trajectory, and successful stunt execution. Learn progression systems, vehicle physics, and stunt optimization techniques that reward both precision driving and creative risk-taking while encouraging mastery of increasingly complex and dangerous aerial automotive challenges. The game features breathtaking sky-high tracks, realistic vehicle physics, and spectacular stunt possibilities that create an adrenaline-pumping experience perfect for extreme sports enthusiasts and racing game fans. Perfect for racing enthusiasts, extreme sports fans, and players who enjoy games that combine automotive control with acrobatic challenge and spectacular visual design that pushes the boundaries of realistic driving. Experience the ultimate automotive adventure and discover how combining racing with extreme stunts can create uniquely thrilling gameplay that celebrates both precision driving and creative risk-taking!",
+    "tags": ["Racing", "Stunts", "Extreme", "Sky", "Acrobatic"],
+    "category": "Racing"
   },
   {
     "name": "Sleeping Beauty",
     "image": "splash.png",
     "url": " sleepingbeauty",
-    "new": false
+    "new": false,
+    "description": "Experience the classic fairy tale in Sleeping Beauty, a charming adventure game that brings the beloved story to life through interactive storytelling and magical gameplay! Help guide the story while experiencing the timeless tale of love, magic, and destiny through engaging gameplay mechanics. Master essential story navigation skills including character interaction, decision-making, and narrative progression that allow you to influence the fairy tale outcome while experiencing the magic and wonder of classic storytelling. Develop reading comprehension through interactive narrative, emotional intelligence through character empathy, and cultural appreciation through classic literature engagement that help you understand the enduring appeal of fairy tales and their moral lessons. Learn storytelling mechanics, character development systems, and narrative choice consequences that reward thoughtful decision-making while teaching valuable lessons about love, patience, perseverance, and the power of true love to overcome any obstacle. The game features beautiful fairy tale graphics, enchanting music, and faithful story adaptation that creates an authentic fairy tale experience perfect for family gaming and educational entertainment that celebrates classic literature. Perfect for family gaming, fairy tale enthusiasts, and educational gaming that combines entertainment with cultural literacy through interactive storytelling and classic narrative appreciation. Experience the magic of interactive storytelling and discover how beloved fairy tales can be enhanced through interactive gameplay that preserves the wonder while adding engaging participation in timeless stories!",
+    "tags": ["Fairy Tale", "Story", "Family-Friendly", "Classic", "Interactive"],
+    "category": "Adventure"
   },
   {
     "name": "Slime Rush TD",
     "image": "splash.png",
     "url": "slime-rush-td",
-    "new": false
+    "new": false,
+    "description": "Defend against adorable but determined slime invaders in Slime Rush TD, a tower defense game that combines cute graphics with strategic depth as you build defensive systems to stop waves of colorful slimes! Plan your defenses carefully while managing resources and upgrading your defensive capabilities. Master essential tower defense skills including strategic placement, resource management, and wave analysis that allow you to efficiently counter different slime types while maximizing the effectiveness of your limited defensive budget and available space. Develop advanced tactical planning through enemy behavior prediction, upgrade optimization, and defensive synergy that help you create impenetrable defense networks while adapting to increasingly challenging slime invasion patterns and special enemy abilities. Learn progression systems, tower mechanics, and strategic optimization techniques that reward both careful planning and adaptive thinking while encouraging experimentation with different defensive strategies and tower combinations. The game features charming slime characters, diverse tower types, and challenging strategic gameplay that creates an engaging defense experience perfect for strategy enthusiasts who appreciate both cute aesthetics and tactical depth. Perfect for tower defense fans, strategy enthusiasts, and players who enjoy games that combine adorable graphics with serious strategic challenge and progressive difficulty that tests tactical thinking skills. Experience the joy of slime defense and discover how cute themes can enhance rather than diminish strategic gaming through charming presentation and solid tactical gameplay mechanics!",
+    "tags": ["Tower Defense", "Strategy", "Slime", "Cute", "Tactical"],
+    "category": "Strategy"
   },
   {
     "name": "Slope",
@@ -1962,438 +1992,657 @@
     "name": "Smash Karts",
     "image": "images/icon-512.png",
     "url": "smashkarts",
-    "new": false
+    "new": false,
+    "description": "Race into chaotic combat in Smash Karts, the explosive multiplayer kart racing game that combines high-speed racing with intense weapon-based combat! Compete against players worldwide while using power-ups, weapons, and strategic driving to dominate the track and eliminate opponents. Master essential kart combat skills including racing line optimization, weapon timing, and defensive maneuvering that allow you to maintain speed while effectively using offensive and defensive items to gain competitive advantage over skilled opponents. Develop advanced racing strategies through track memorization, power-up management, and opponent prediction that help you consistently achieve victory while adapting to different racing conditions and opponent strategies in real-time multiplayer competition. Learn competitive mechanics, item usage systems, and racing optimization techniques that reward both driving skill and tactical thinking while fostering competitive spirit and sportsmanship in online multiplayer environments. The game features colorful kart designs, diverse track layouts, and intense multiplayer action that creates an engaging competitive experience perfect for racing enthusiasts and multiplayer gaming fans. Perfect for competitive racing fans, multiplayer enthusiasts, and players who enjoy games that combine racing skill with combat strategy in fast-paced online competition. Experience the thrill of competitive kart racing and discover how combining racing with combat can create uniquely engaging multiplayer experiences that test both driving skill and tactical intelligence!",
+    "tags": ["Kart Racing", "Multiplayer", "Combat", "Online", "Competitive"],
+    "category": "Racing"
   },
   {
     "name": "Smoking Barrels",
     "image": "smokingbarrels.jpg",
     "url": "smokingbarrels",
-    "new": false
+    "new": false,
+    "description": "Enter the Wild West in Smoking Barrels, an action-packed western shooter that captures the spirit of frontier gunfights with authentic period weapons and classic cowboy combat! Engage in intense shootouts while mastering the art of quick-draw dueling and tactical gunplay in dusty frontier towns. Master essential gunslinging skills including quick-draw timing, accuracy under pressure, and tactical positioning that allow you to survive in the lawless frontier where split-second decisions determine life and death outcomes. Develop advanced western combat techniques through weapon familiarity, situational awareness, and honor code understanding that help you navigate the complex moral landscape of the Old West while maintaining your reputation as a skilled gunfighter. Learn progression systems, weapon mechanics, and western combat traditions that reward both marksmanship and strategic thinking while teaching historical context about frontier life and the code of the American West. The game features authentic western atmosphere, period-accurate weapons, and cinematic gunfight sequences that create an immersive frontier experience perfect for western enthusiasts and action gaming fans. Perfect for western movie fans, historical gaming enthusiasts, and action game players who appreciate atmospheric setting combined with skill-based gunplay and authentic period detail. Experience the romance and danger of the Old West and discover how historical settings can enhance action gaming through authentic atmosphere and period-appropriate challenge that celebrates American frontier heritage!",
+    "tags": ["Western", "Shooting", "Action", "Historical", "Gunfight"],
+    "category": "Action"
   },
   {
     "name": "Snow Battle",
     "image": "img/logo.png",
     "url": "snowbattle",
-    "new": false
+    "new": false,
+    "description": "Engage in winter warfare in Snow Battle, a fun combat game that transforms snowy landscapes into battlegrounds for epic snowball fights and winter-themed tactical combat! Build snow forts, craft snowballs, and engage in strategic winter battles with friends or AI opponents. Master essential winter combat skills including snowball trajectory calculation, fort construction, and winter movement techniques that allow you to dominate snowy battlefields through superior strategy and environmental adaptation rather than just throwing speed. Develop advanced winter tactics through terrain utilization, weather condition adaptation, and seasonal strategy development that help you gain tactical advantage while learning to use winter conditions to enhance rather than hinder combat effectiveness. Learn progression systems, winter physics, and seasonal combat mechanics that reward creative thinking and environmental awareness while teaching valuable lessons about adaptation, resourcefulness, and making the best of challenging seasonal conditions. The game features beautiful winter graphics, realistic snow physics, and engaging combat mechanics that create an authentic winter warfare experience perfect for seasonal gaming and family-friendly competition during winter months. Perfect for winter gaming, family entertainment, and players who appreciate seasonal themes combined with tactical combat that emphasizes fun over violence through winter sports-inspired gameplay. Experience the joy of winter combat and discover how seasonal themes can create engaging gameplay that celebrates winter activities while providing tactical challenge through environmental interaction and strategic thinking!",
+    "tags": ["Winter", "Combat", "Snowball", "Family-Friendly", "Seasonal"],
+    "category": "Action"
   },
   {
     "name": "Soccer Random",
     "image": "splash.png",
     "url": "soccer-random",
-    "new": false
+    "new": false,
+    "description": "Experience unpredictable football fun in Soccer Random, a hilarious sports game that combines soccer with random physics and chaotic gameplay mechanics! Control wobbly players through unpredictable matches where anything can happen and conventional soccer rules take a backseat to pure entertainment. Master essential chaotic soccer skills including unpredictable player control, physics adaptation, and situational improvisation that allow you to succeed despite constantly changing game conditions and random gameplay elements that keep every match fresh and exciting. Develop adaptability through flexible strategy development, humor appreciation, and creative problem-solving that help you embrace the chaos while finding ways to score goals despite the game's intentionally unpredictable and amusing physics system. Learn random mechanics, comedy timing, and adaptive gameplay strategies that reward flexibility and humor while teaching valuable lessons about adaptability, patience, and finding joy in unexpected situations and outcomes. The game features hilarious physics, unpredictable gameplay, and laugh-out-loud moments that create an entertaining experience perfect for casual gaming and social play with friends who appreciate humor over serious competition. Perfect for comedy gaming fans, casual sports enthusiasts, and players who enjoy games that prioritize fun and laughter over realistic simulation through intentionally chaotic and amusing gameplay mechanics. Experience the joy of chaotic soccer and discover how randomness can enhance gaming through humor, unpredictability, and pure entertainment value that celebrates the fun side of sports gaming!",
+    "tags": ["Soccer", "Random", "Funny", "Chaotic", "Casual"],
+    "category": "Sports"
   },
   {
     "name": "Soccer Skills",
     "image": "splash.png",
     "url": "soccer-skills",
-    "new": false
+    "new": false,
+    "description": "Perfect your football technique in Soccer Skills, a comprehensive training game that focuses on developing real soccer abilities through targeted skill-building exercises and progressive challenge systems! Practice ball control, shooting accuracy, and tactical awareness through professionally designed training scenarios. Master essential soccer fundamentals including ball handling, passing precision, and shooting technique that allow you to develop genuine football skills that translate to real-world soccer improvement and enhanced game understanding. Develop advanced technical abilities through progressive skill training, muscle memory development, and tactical awareness building that help you understand the complexities of modern soccer while improving your actual playing ability through focused practice. Learn skill progression systems, technical training methods, and soccer development principles that reward dedicated practice and consistent improvement while teaching authentic soccer techniques and tactical concepts used by professional players. The game features realistic ball physics, professional training exercises, and comprehensive skill development that creates an educational soccer experience perfect for players who want to improve their real soccer abilities through virtual training. Perfect for soccer players, sports training enthusiasts, and anyone interested in improving their football skills through dedicated practice and professional training methodologies adapted for digital learning environments. Experience authentic soccer training and discover how virtual practice can enhance real-world soccer performance through systematic skill development and professional coaching techniques adapted for interactive learning!",
+    "tags": ["Soccer", "Training", "Skills", "Educational", "Realistic"],
+    "category": "Sports"
   },
   {
     "name": "Soldier Legend",
     "image": "images/logo.jpg",
     "url": "soldier-legend",
-    "new": false
+    "new": false,
+    "description": "Become a legendary warrior in Soldier Legend, an epic action-adventure game that follows a brave soldier's journey through dangerous territories while completing heroic missions and building an legendary reputation! Navigate through challenging combat scenarios while developing military skills and tactical expertise. Master essential combat techniques including weapon proficiency, tactical positioning, and mission planning that allow you to successfully complete increasingly dangerous assignments while maintaining honor and protecting innocent civilians throughout your military career. Develop advanced military leadership through strategic thinking, team coordination, and moral decision-making that help you rise through the ranks while maintaining integrity and demonstrating the qualities that define true military heroism and legendary status. Learn progression systems, military protocols, and leadership principles that reward both combat excellence and ethical behavior while teaching valuable lessons about duty, honor, sacrifice, and the responsibilities that come with military power and authority. The game features intense military action, moral choice systems, and epic storytelling that creates an authentic military experience perfect for action gaming enthusiasts and military history fans who appreciate heroic narratives. Perfect for military gaming fans, action-adventure enthusiasts, and players who appreciate games that combine exciting combat with meaningful moral choices and heroic character development themes. Experience the path to becoming a military legend and discover how combining action with moral responsibility can create meaningful gaming experiences that celebrate military heroism and ethical leadership!",
+    "tags": ["Military", "Action", "Hero", "Combat", "Legend"],
+    "category": "Action"
   },
   {
     "name": "Solitaire",
     "image": "img/hover.jpg",
     "url": "solitaire",
-    "new": false
+    "new": false,
+    "description": "Enjoy the timeless card game in Solitaire, the classic single-player card game that has entertained millions with its perfect balance of skill, strategy, and relaxing gameplay! Arrange cards in proper sequences while developing logical thinking and pattern recognition skills through this beloved traditional game. Master essential solitaire strategies including card sequencing, move planning, and resource optimization that allow you to consistently achieve victory while understanding the mathematical principles and logical patterns that underlie successful solitaire play. Develop advanced analytical skills through pattern recognition, probability assessment, and strategic planning that help you make optimal moves while learning valuable lessons about patience, persistence, and systematic problem-solving approaches. Learn card game mechanics, strategic optimization techniques, and classical game theory principles that reward both logical thinking and careful planning while providing therapeutic relaxation and mental stimulation through engaging but peaceful gameplay. The game features classic solitaire rules, intuitive interface, and smooth gameplay that creates an authentic card game experience perfect for relaxation, mental exercise, and traditional gaming entertainment. Perfect for card game enthusiasts, puzzle lovers, and anyone seeking relaxing entertainment that combines mental challenge with therapeutic gameplay and traditional game appreciation. Experience the enduring appeal of classic solitaire and discover how traditional card games can provide both entertainment and mental exercise through timeless gameplay that has satisfied players for generations!",
+    "tags": ["Cards", "Classic", "Solitaire", "Relaxing", "Traditional"],
+    "category": "Puzzle"
   },
   {
     "name": "Sort the Court",
     "image": "img/splash.png",
     "url": "sort-the-court",
-    "new": false
+    "new": false,
+    "description": "Rule your kingdom wisely in Sort the Court, a strategic decision-making game where every choice affects your realm's prosperity, population, and happiness! Make quick decisions about kingdom management while balancing conflicting interests and managing limited resources to build a thriving civilization. Master essential leadership skills including decision analysis, consequence prediction, and resource balancing that allow you to successfully govern your kingdom while maintaining the delicate balance between prosperity, population growth, and citizen satisfaction. Develop advanced political acumen through diplomatic thinking, economic planning, and social awareness that help you understand the complex relationships between different aspects of governance and the long-term consequences of leadership decisions. Learn management systems, political strategy, and leadership principles that reward thoughtful decision-making and strategic thinking while teaching valuable lessons about governance, responsibility, and the challenges of leadership in complex organizations. The game features simple but meaningful choices, clear feedback systems, and engaging kingdom management that creates an educational leadership experience perfect for strategy enthusiasts and anyone interested in learning about governance. Perfect for strategy gamers, leadership development, and educational gaming that combines entertainment with valuable lessons about decision-making, resource management, and the complexities of organizational leadership. Experience the challenges of leadership and discover how simple choices can have complex consequences through this engaging simulation of governance and strategic decision-making!",
+    "tags": ["Strategy", "Kingdom", "Decision Making", "Management", "Leadership"],
+    "category": "Strategy"
   },
   {
     "name": "Soundboard",
     "image": "img/mlg-favicon.png",
     "url": "soundboard",
-    "new": false
+    "new": false,
+    "description": "Create hilarious audio combinations in Soundboard, an interactive sound mixing tool that lets you trigger various sound effects, music clips, and audio samples to create unique audio experiences! Experiment with timing, layering, and sound combinations while exploring the creative possibilities of audio manipulation. Master essential audio skills including rhythm timing, sound layering, and creative mixing that allow you to create unique audio compositions while understanding the basics of sound production and audio editing through hands-on experimentation. Develop creative audio abilities through sound design experimentation, timing coordination, and musical composition that help you understand how different sounds interact and combine to create new audio experiences and entertaining combinations. Learn audio production basics, sound mixing principles, and creative composition techniques that encourage artistic expression while teaching fundamental concepts about sound, music, and audio production through interactive play and experimentation. The tool features diverse sound collections, intuitive interface, and unlimited creative potential that creates an engaging audio experience perfect for creative expression and musical experimentation without requiring professional equipment. Perfect for music enthusiasts, creative experimenters, and anyone interested in audio production who wants to explore sound design and audio mixing through accessible and entertaining interactive tools. Experience the joy of audio creation and discover how simple sound mixing can lead to complex creative expression through experimentation with rhythm, timing, and sound combination techniques!",
+    "tags": ["Audio", "Sound Effects", "Creative", "Music", "Interactive"],
+    "category": "Tools"
   },
   {
     "name": "Space Company",
     "image": "whiteLogo.png",
     "url": "space-company",
-    "new": false
+    "new": false,
+    "description": "Build a galactic empire in Space Company, an incremental strategy game that takes you from a small startup to a massive interstellar corporation spanning multiple planets and star systems! Manage resources, research technologies, and expand your cosmic business empire through strategic planning and careful resource allocation. Master essential business management skills including resource optimization, research prioritization, and expansion planning that allow you to efficiently grow your space company while managing complex supply chains and technological development across multiple worlds. Develop advanced strategic thinking through economic planning, technological progression, and market analysis that help you make optimal decisions while understanding the complexities of interstellar commerce and large-scale resource management systems. Learn progression mechanics, economic principles, and strategic growth techniques that reward both short-term efficiency and long-term planning while teaching valuable lessons about business development, technological innovation, and economic management. The game features deep progression systems, multiple resource types, and complex technological trees that create an engaging strategic experience perfect for incremental game fans and business simulation enthusiasts. Perfect for strategy gamers, business simulation fans, and players who enjoy long-term progression games that combine economic management with space exploration themes and technological advancement systems. Experience the satisfaction of building a space empire and discover how incremental progression can create deeply engaging gameplay through strategic depth and long-term planning rewards!",
+    "tags": ["Space", "Business", "Incremental", "Strategy", "Empire"],
+    "category": "Strategy"
   },
   {
     "name": "Space Garden",
     "image": "spl.png",
     "url": "spacegarden",
-    "new": false
+    "new": false,
+    "description": "Cultivate cosmic flora in Space Garden, a peaceful gardening simulation that combines space exploration with botanical creativity as you grow beautiful plants in otherworldly environments! Tend to alien plants while creating stunning space gardens that flourish in unique cosmic conditions. Master essential space gardening skills including plant care, environmental adaptation, and cosmic horticulture that allow you to successfully cultivate exotic alien species while understanding the unique requirements of extraterrestrial plant life. Develop advanced botanical knowledge through species research, ecological understanding, and environmental management that help you create thriving space gardens while learning about plant biology, ecology, and the possibilities of life in space environments. Learn gardening mechanics, ecological principles, and space biology concepts that encourage environmental appreciation while teaching valuable lessons about plant care, ecosystem balance, and the importance of preserving and nurturing life in all its forms. The game features beautiful space environments, unique alien plants, and peaceful gameplay that creates a relaxing and educational experience perfect for nature lovers and space enthusiasts who appreciate both botanical science and cosmic wonder. Perfect for gardening enthusiasts, space exploration fans, and educational gaming that combines botanical knowledge with space science through peaceful and contemplative gameplay that celebrates both plant life and cosmic exploration. Experience the zen of space gardening and discover how combining botany with space exploration can create uniquely peaceful and educational gaming experiences that foster appreciation for both nature and the cosmos!",
+    "tags": ["Space", "Gardening", "Peaceful", "Plants", "Simulation"],
+    "category": "Simulation"
   },
   {
     "name": "Spinning Rat",
     "image": "favicon-32x32.png",
     "url": "spinningrat",
-    "new": false
+    "new": false,
+    "description": "Experience pure mesmerizing entertainment in Spinning Rat, a hypnotic and humorous web experience that features an adorable rat character spinning continuously in an endless loop! Watch as the charming rodent rotates while enjoying the surprisingly relaxing and entertaining nature of this simple but captivating concept. Master essential relaxation skills including stress relief, meditation focus, and humor appreciation that allow you to use this simple spinning animation as a therapeutic tool for mental relaxation and entertainment during stressful periods. Develop mindfulness abilities through concentrated observation, meditative watching, and present-moment awareness that help you find calm and amusement in simple pleasures while appreciating the unexpected therapeutic value of repetitive visual experiences. Learn stress management techniques, mindfulness principles, and humor therapy methods that demonstrate how simple visual entertainment can provide genuine relaxation benefits while teaching valuable lessons about finding joy in unexpected places and simple pleasures. The experience features adorable graphics, smooth animation, and inexplicably entertaining repetitive motion that creates a strangely addictive and therapeutic viewing experience perfect for stress relief and casual entertainment. Perfect for stress relief, humor appreciation, and anyone seeking simple entertainment that proves sometimes the most basic concepts can provide genuine enjoyment through charm, simplicity, and unexpected therapeutic value. Experience the mysterious appeal of spinning rodents and discover how simple animations can provide surprisingly effective stress relief and entertainment through pure visual charm and hypnotic repetition!",
+    "tags": ["Humor", "Spinning", "Relaxing", "Meme", "Therapeutic"],
+    "category": "Casual"
   },
   {
     "name": "Stack",
     "image": "stack.png",
     "url": "stack",
-    "new": false
+    "new": false,
+    "description": "Build the ultimate tower in Stack, a challenging physics-based puzzle game that tests your precision and timing as you carefully stack blocks to create the tallest possible structure! Time your drops perfectly while maintaining balance and stability in this addictive building challenge. Master essential stacking skills including timing precision, balance assessment, and spatial awareness that allow you to consistently achieve greater heights while understanding the physics principles that govern structural stability and weight distribution. Develop advanced building techniques through patience development, hand-eye coordination, and concentration improvement that help you maintain focus under pressure while learning valuable lessons about persistence, accuracy, and the importance of steady progress. Learn physics mechanics, structural engineering principles, and precision timing techniques that reward careful attention and steady nerves while encouraging the development of focus, patience, and determination through progressively challenging gameplay. The game features clean minimalist graphics, intuitive physics, and progressively increasing difficulty that creates an engaging and addictive experience perfect for puzzle enthusiasts and anyone who enjoys precision-based challenges. Perfect for puzzle lovers, precision gaming fans, and players who appreciate games that test concentration and timing skills through simple but challenging mechanics that are easy to learn but difficult to master. Experience the satisfaction of perfect stacking and discover how simple physics concepts can create deeply engaging gameplay that challenges both motor skills and mental focus through precise timing and spatial reasoning!",
+    "tags": ["Stacking", "Physics", "Precision", "Balance", "Puzzle"],
+    "category": "Puzzle"
   },
   {
     "name": "Stack Bump 3D",
     "image": "thumbnail.jpg",
     "url": "stack-bump-3d",
-    "new": false
+    "new": false,
+    "description": "Navigate through twisting towers in Stack Bump 3D, an exciting 3D arcade game where you control a bouncing ball that must smash through colored platforms while avoiding black obstacles in a thrilling descent! Time your movements perfectly while building momentum through the rotating tower structure. Master essential 3D navigation skills including spatial awareness, timing precision, and momentum control that allow you to successfully navigate through complex rotating structures while maintaining speed and avoiding dangerous obstacles that end your run. Develop advanced arcade gaming abilities through pattern recognition, reflexive timing, and three-dimensional thinking that help you anticipate upcoming challenges while maintaining the rapid pace required for high-score achievement and level progression. Learn 3D mechanics, arcade optimization techniques, and spatial navigation strategies that reward both quick reflexes and strategic thinking while encouraging mastery of three-dimensional movement and obstacle avoidance in dynamic environments. The game features vibrant 3D graphics, smooth rotation mechanics, and satisfying destruction effects that create an engaging arcade experience perfect for players who enjoy fast-paced 3D action and spatial challenges. Perfect for arcade gaming fans, 3D action enthusiasts, and players who enjoy games that test spatial awareness and reflexes through dynamic three-dimensional environments and challenging obstacle navigation. Experience the thrill of 3D tower destruction and discover how three-dimensional arcade action can create engaging gameplay that challenges both spatial intelligence and quick reflexes through innovative design!",
+    "tags": ["3D", "Arcade", "Ball", "Obstacles", "Reflexes"],
+    "category": "Arcade"
   },
   {
     "name": "Starve",
     "image": "img/favicon.png",
     "url": "starve",
-    "new": false
+    "new": false,
+    "description": "Survive in a harsh wilderness in Starve, an intense survival game that challenges you to gather resources, craft tools, and build shelter while managing hunger, thirst, and environmental dangers! Navigate through different biomes while collecting materials and avoiding hostile creatures in this unforgiving survival experience. Master essential survival skills including resource management, crafting optimization, and environmental adaptation that allow you to thrive in hostile environments while understanding the complex relationships between different survival needs and resource availability. Develop advanced wilderness techniques through strategic planning, risk assessment, and resource prioritization that help you survive increasingly challenging conditions while learning valuable lessons about preparation, resourcefulness, and adaptation to difficult circumstances. Learn survival mechanics, crafting systems, and environmental navigation techniques that reward careful planning and smart resource management while teaching practical knowledge about wilderness survival and self-sufficiency in challenging environments. The game features multiple biomes, complex crafting systems, and realistic survival challenges that create an authentic wilderness experience perfect for survival gaming enthusiasts and anyone interested in learning about outdoor survival skills. Perfect for survival game fans, outdoor enthusiasts, and educational gaming that combines entertainment with practical survival knowledge through realistic challenge and authentic wilderness survival simulation. Experience the ultimate survival challenge and discover how wilderness survival skills can be developed through engaging gameplay that emphasizes preparation, resourcefulness, and adaptation to environmental challenges!",
+    "tags": ["Survival", "Wilderness", "Crafting", "Resources", "Challenge"],
+    "category": "Survival"
   },
   {
     "name": "Station 141",
     "image": "75wxYs.png",
     "url": "station-141",
-    "new": false
+    "new": false,
+    "description": "Uncover mysteries in Station 141, a suspenseful investigation game that combines detective work with atmospheric storytelling as you explore a mysterious facility and solve puzzles to uncover hidden secrets! Investigate clues while navigating through eerie environments filled with mystery and intrigue. Master essential detective skills including evidence analysis, logical deduction, and environmental observation that allow you to piece together complex mysteries while developing critical thinking abilities and investigative methodologies. Develop advanced investigation techniques through systematic searching, clue correlation, and hypothesis testing that help you solve increasingly complex puzzles while learning valuable problem-solving approaches and analytical thinking skills. The game features atmospheric environments, intriguing mysteries, and challenging puzzles that create an engaging detective experience perfect for mystery enthusiasts and puzzle solvers.",
+    "tags": ["Mystery", "Investigation", "Puzzle", "Atmospheric", "Detective"],
+    "category": "Adventure"
   },
   {
     "name": "Stealing the Diamond",
     "image": "stealingthediamond.jpg",
     "url": "stealingthediamond",
-    "new": false
+    "new": false,
+    "description": "Plan the perfect heist in Stealing the Diamond, an interactive adventure game that puts you in control of a master thief attempting to steal a precious diamond from a heavily guarded museum! Make strategic choices while navigating through security systems and avoiding detection in this branching storyline adventure. Master essential heist planning skills including route analysis, security assessment, and tactical decision-making that allow you to successfully execute complex theft operations while understanding the importance of careful planning and strategic thinking. Develop advanced criminal mastermind abilities through risk evaluation, contingency planning, and creative problem-solving that help you overcome security obstacles while exploring the fascinating world of fictional crime planning and execution.",
+    "tags": ["Heist", "Adventure", "Choice-Based", "Strategy", "Interactive"],
+    "category": "Adventure"
   },
   {
     "name": "Stick Archers",
     "image": "splash.jpg",
     "url": "stick-archers",
-    "new": false
+    "new": false,
+    "description": "Master the art of archery combat in Stick Archers, an action-packed stickman fighting game that combines precise aiming with strategic combat! Control stick figure archers in intense battles while managing trajectory, wind effects, and enemy movement patterns. Develop essential archery skills including aim precision, angle calculation, and timing coordination for successful combat. Perfect for action fans and precision gaming enthusiasts who enjoy skill-based combat mechanics.",
+    "tags": ["Stickman", "Archery", "Combat", "Precision", "Action"],
+    "category": "Action"
   },
   {
     "name": "Stick Duel Battle",
     "image": "512x512.jpg",
     "url": "stick-duel-battle",
-    "new": false
+    "new": false,
+    "description": "Engage in intense one-on-one combat in Stick Duel Battle, a fast-paced fighting game featuring stickman warriors in epic duels! Master weapon combat, dodge attacks, and execute precise strikes to defeat opponents in this skill-based fighting experience. Develop combat timing, defensive strategies, and offensive techniques for victory. Perfect for fighting game fans and competitive multiplayer enthusiasts.",
+    "tags": ["Stickman", "Fighting", "Duel", "Multiplayer", "Combat"],
+    "category": "Action"
   },
   {
     "name": "Stick Merge",
     "image": "splash.png",
     "url": "stick-merge",
-    "new": false
+    "new": false,
+    "description": "Combine stickman warriors in this strategic merging game! Merge identical stick fighters to create powerful armies and battle against enemies. Master tactical merging, army management, and strategic deployment to conquer all levels. Perfect for strategy enthusiasts who enjoy merging mechanics combined with tactical combat.",
+    "tags": ["Stickman", "Merge", "Strategy", "Army", "Tactical"],
+    "category": "Strategy"
   },
   {
     "name": "Stickman Boost",
     "image": "icon-256.png",
     "url": "stickman-boost",
-    "new": false
+    "new": false,
+    "description": "Race through challenging obstacle courses in this fast-paced stickman platformer! Navigate dangerous traps, perform incredible jumps, and reach the finish line in record time. Develop parkour skills and precise timing. Perfect for platformer enthusiasts who enjoy speed-based challenges and precise control.",
+    "tags": ["Stickman", "Platform", "Racing", "Parkour", "Speed"],
+    "category": "Platform"
   },
   {
     "name": "Stickman Golf",
     "image": "splash.png",
     "url": "stickman-golf",
-    "new": false
+    "new": false,
+    "description": "Perfect your swing in this physics-based golf game featuring stickman characters! Calculate angles, manage power, and navigate creative course designs. Master golf mechanics and course strategy for hole-in-one achievements. Perfect for sports gaming fans who enjoy precision and strategic thinking.",
+    "tags": ["Stickman", "Golf", "Physics", "Sports", "Precision"],
+    "category": "Sports"
   },
   {
     "name": "Stickman Hook",
     "image": "unnamed.jpg",
     "url": "stickman-hook",
-    "new": false
+    "new": false,
+    "description": "Swing through levels using grappling mechanics in this exciting stickman adventure! Master momentum, timing, and acrobatic moves to navigate through challenging courses. Develop swinging skills and aerial control. Perfect for platformer fans who enjoy physics-based movement and acrobatic gameplay.",
+    "tags": ["Stickman", "Swinging", "Platform", "Acrobatic", "Physics"],
+    "category": "Platform"
   },
   {
     "name": "Stick War",
     "image": "stickwar.jpg",
     "url": "stickwar",
-    "new": false
+    "new": false,
+    "description": "Command armies in epic stickman warfare! Build units, manage resources, and lead your stick army to victory against enemy forces. Master strategy, unit management, and battlefield tactics in this acclaimed war game. Perfect for strategy enthusiasts who enjoy real-time tactical combat and army management.",
+    "tags": ["Stickman", "War", "Strategy", "Army", "RTS"],
+    "category": "Strategy"
   },
   {
     "name": "Storm the House 2",
     "image": "stormthehouse2.jpg",
     "url": "stormthehouse2",
-    "new": false
+    "new": false,
+    "description": "Defend your fortress in Storm the House 2, an intense tower defense shooter where you must protect your base from endless waves of enemies! Use strategic weapons placement and upgrade systems to survive increasingly difficult assault waves. Perfect for defense strategy fans who enjoy action-packed shooting combined with tactical planning.",
+    "tags": ["Defense", "Shooting", "Strategy", "Action", "Survival"],
+    "category": "Action"
   },
   {
     "name": "Subway Surfers",
     "image": "img/splash.jpg",
     "url": "subway-surfers",
-    "new": false
+    "new": false,
+    "description": "Run, jump, and surf your way through subway tracks in this endless runner phenomenon! Dodge trains, collect coins, and unlock new characters in this addictive mobile gaming classic. Master parkour skills and quick reflexes. Perfect for endless runner fans and casual mobile gaming enthusiasts.",
+    "tags": ["Endless Runner", "Mobile", "Parkour", "Classic", "Casual"],
+    "category": "Arcade"
   },
   {
     "name": "Subway Surfers NY",
     "image": "NewYorkIcon.png",
     "url": "subway-surfers-ny",
-    "new": false
+    "new": false,
+    "description": "Experience the New York edition of the beloved endless runner! Surf through NYC subway tunnels with unique Big Apple-themed environments and characters. Features all the classic Subway Surfers gameplay with a distinctive New York City twist. Perfect for fans of the original seeking new urban adventures.",
+    "tags": ["Endless Runner", "New York", "Mobile", "Urban", "Themed"],
+    "category": "Arcade"
   },
   {
     "name": "Superhot",
     "image": "hot.jpg",
     "url": "superhot",
-    "new": false
+    "new": false,
+    "description": "Time moves only when you move in this revolutionary FPS puzzle game! Plan strategic attacks, dodge bullets in slow motion, and eliminate enemies in this innovative time-manipulation shooter. Master tactical thinking and precise timing. Perfect for puzzle-FPS fans who enjoy strategic combat.",
+    "tags": ["FPS", "Time Manipulation", "Puzzle", "Strategy", "Innovative"],
+    "category": "Action"
   },
   {
     "name": "Super Mario Construct",
     "image": "icons/icon-256.png",
     "url": "supermarioconstruct",
-    "new": false
+    "new": false,
+    "description": "Create and play custom Mario levels in this fan-made level editor! Build challenging platformer stages using authentic Mario mechanics and share your creations. Master level design principles and creative problem-solving. Perfect for Mario fans and aspiring game designers who enjoy creative building.",
+    "tags": ["Mario", "Level Editor", "Platform", "Creative", "Fan Game"],
+    "category": "Platform"
   },
   {
     "name": "Surviv",
     "image": "img/favicon.png",
     "url": "surviv",
-    "new": false
+    "new": false,
+    "description": "Battle for survival in this top-down battle royale shooter! Scavenge for weapons, survive the shrinking map, and eliminate other players to be the last one standing. Master tactical shooting and survival strategies. Perfect for battle royale fans who enjoy competitive multiplayer action.",
+    "tags": ["Battle Royale", "Multiplayer", "Survival", "Shooting", "Competitive"],
+    "category": "Action"
   },
   {
     "name": "Sushi Unroll",
     "image": "favicon.png",
     "url": "sushi-unroll",
-    "new": false
+    "new": false,
+    "description": "Experience satisfying puzzle mechanics in Sushi Unroll, a relaxing puzzle game where you unroll sushi to reveal beautiful patterns and solve increasingly complex challenges! Master spatial reasoning and pattern recognition through this zen-like puzzle experience. Perfect for puzzle enthusiasts who enjoy calming, meditative gameplay.",
+    "tags": ["Puzzle", "Sushi", "Relaxing", "Pattern", "Zen"],
+    "category": "Puzzle"
   },
   {
     "name": "Swerve",
     "image": "img/favicon.jpg",
     "url": "swerve",
-    "new": false
+    "new": false,
+    "description": "Navigate through traffic at high speeds in Swerve, an intense endless driving game! Dodge cars, avoid crashes, and test your reflexes in increasingly challenging traffic scenarios. Master quick decision-making and precise steering. Perfect for arcade racing fans who enjoy fast-paced reflex challenges.",
+    "tags": ["Driving", "Traffic", "Endless", "Reflex", "Arcade"],
+    "category": "Racing"
   },
   {
     "name": "Synesthesia",
     "image": "index.splash.png",
     "url": "synesthesia",
-    "new": false
+    "new": false,
+    "description": "Experience music through color in Synesthesia, an innovative audio-visual experience that transforms sound into stunning visual displays! Create beautiful patterns through musical interaction and explore the connection between sound and sight. Perfect for music lovers and creative minds who appreciate artistic expression.",
+    "tags": ["Music", "Visual", "Audio", "Artistic", "Creative"],
+    "category": "Simulation"
   },
   {
     "name": "Tactical Weapon Pack 2",
     "image": "splash.jpg",
     "url": "tactical-weapon-pack-2",
-    "new": false
+    "new": false,
+    "description": "Engage in advanced tactical combat in Tactical Weapon Pack 2! Master a variety of military weapons, complete challenging missions, and develop strategic combat skills. Features realistic ballistics and tactical gameplay. Perfect for military simulation fans and tactical shooter enthusiasts.",
+    "tags": ["Tactical", "Military", "Weapons", "Combat", "Simulation"],
+    "category": "Action"
   },
   {
     "name": "Tactical Assassin 2",
     "image": "tacticalassassin2.png",
     "url": "tacticalassasin2",
-    "new": false
+    "new": false,
+    "description": "Execute precision missions in Tactical Assassin 2, a stealth-based sniper game that challenges your patience and accuracy! Plan careful shots, avoid detection, and complete challenging assassination contracts. Master stealth tactics and long-range precision. Perfect for stealth game fans and sniper enthusiasts.",
+    "tags": ["Stealth", "Sniper", "Assassination", "Tactical", "Precision"],
+    "category": "Action"
   },
   {
     "name": "Tank Trouble 2",
     "image": "tank.jpeg",
     "url": "tank-trouble-2",
-    "new": false
+    "new": false,
+    "description": "Engage in explosive tank battles in Tank Trouble 2! Navigate maze-like arenas while firing at opponents in this strategic tank combat game. Master tank controls, trajectory calculation, and tactical positioning. Perfect for multiplayer combat fans who enjoy strategic vehicle warfare.",
+    "tags": ["Tank", "Combat", "Multiplayer", "Strategy", "Battle"],
+    "category": "Action"
   },
   {
     "name": "Tanuki Sunset",
     "image": "img/logo.png",
     "url": "tanuki-sunset",
-    "new": false
+    "new": false,
+    "description": "Cruise through retro-styled landscapes in Tanuki Sunset, a synthwave-inspired skateboarding game featuring a cool tanuki! Master skateboarding tricks while enjoying stunning vaporwave aesthetics and chill music. Perfect for skateboarding fans and retro aesthetic enthusiasts.",
+    "tags": ["Skateboarding", "Retro", "Synthwave", "Tanuki", "Chill"],
+    "category": "Sports"
   },
   {
     "name": "Temple Run 2",
     "image": "img/temple-run-2-256.png",
     "url": "temple-run-2",
-    "new": false
+    "new": false,
+    "description": "Continue the endless running adventure in this acclaimed sequel! Navigate treacherous temple paths, collect gems, and unlock new characters in improved environments. Master parkour movements and quick reflexes. Perfect for endless runner enthusiasts and mobile gaming fans.",
+    "tags": ["Endless Runner", "Temple", "Adventure", "Mobile", "Sequel"],
+    "category": "Arcade"
   },
   {
     "name": "The Final Earth",
     "image": "images.png",
     "url": "the-final-earth",
-    "new": false
+    "new": false,
+    "description": "Build humanity's last hope in The Final Earth, a city-building survival game where you construct underground colonies to preserve civilization! Manage resources, expand your settlement, and ensure the survival of humanity in this post-apocalyptic world. Perfect for strategy and city-building enthusiasts.",
+    "tags": ["City Building", "Strategy", "Survival", "Post-Apocalyptic", "Colony"],
+    "category": "Strategy"
   },
   {
     "name": "The Hotel",
     "image": "splash.png",
     "url": "the-hotel",
-    "new": false
+    "new": false,
+    "description": "Survive a night of horror in The Hotel, a spine-chilling atmospheric thriller game! Navigate through dark corridors, solve mysterious puzzles, and uncover disturbing secrets while avoiding terrifying encounters. Features immersive sound design and psychological horror elements. Perfect for horror game enthusiasts.",
+    "tags": ["Horror", "Thriller", "Mystery", "Survival", "Atmospheric"],
+    "category": "Horror"
   },
   {
     "name": "The Battle",
     "image": "thebattle.png",
     "url": "thebattle",
-    "new": false
+    "new": false,
+    "description": "Command your forces in The Battle, an epic strategy warfare game featuring intense tactical combat! Deploy troops, manage resources, and execute strategic battle plans to defeat enemy armies. Features real-time strategy elements and multiple unit types. Perfect for strategy enthusiasts and tactical warfare fans.",
+    "tags": ["Strategy", "War", "Tactical", "Combat", "Command"],
+    "category": "Strategy"
   },
   {
     "name": "The Heist",
     "image": "theheist.jpg",
     "url": "theheist",
-    "new": false
+    "new": false,
+    "description": "Plan and execute the perfect crime in The Heist, a thrilling stealth action game where strategy meets precision! Navigate security systems, avoid guards, and steal valuable treasures while managing time and resources. Features multiple heist scenarios and stealth mechanics. Perfect for stealth game enthusiasts.",
+    "tags": ["Stealth", "Strategy", "Crime", "Heist", "Action"],
+    "category": "Action"
   },
   {
     "name": "There Is No Game",
     "image": "logo.png",
     "url": "there-is-no-game",
-    "new": false
+    "new": false,
+    "description": "Experience a revolutionary meta-game that breaks the fourth wall! This isn't really a game... or is it? Challenge conventions and discover hidden interactions in this unique experimental experience. Perfect for players who enjoy unconventional gaming and creative storytelling.",
+    "tags": ["Meta Game", "Experimental", "Interactive", "Unique", "Breaking Fourth Wall"],
+    "category": "Adventure"
   },
   {
     "name": "This Is the Only Level",
     "image": "thisistheonlylevel.png",
     "url": "thisistheonlylevel",
-    "new": false
+    "new": false,
+    "description": "Experience the ultimate puzzle mind-bender in This Is the Only Level! Navigate through seemingly identical levels that each feature unique twists and mechanics. Think outside the box as each stage presents surprising variations and creative challenges. Perfect for puzzle enthusiasts who love innovative gameplay.",
+    "tags": ["Puzzle", "Creative", "Mind-bender", "Innovative", "Unique"],
+    "category": "Puzzle"
   },
   {
     "name": "Tiny Fishing",
     "image": "tiny-fishing.png",
     "url": "tiny-fishing",
-    "new": false
+    "new": false,
+    "description": "Cast your line in Tiny Fishing, a relaxing and addictive fishing game that's perfect for casual gaming! Catch various fish species, upgrade your equipment, and explore deeper waters to discover rare catches. Features simple controls and satisfying progression. Perfect for fishing game fans and casual players.",
+    "tags": ["Fishing", "Casual", "Relaxing", "Upgrade", "Collection"],
+    "category": "Casual"
   },
   {
     "name": "Tiny Islands",
     "image": "splash.png",
     "url": "tiny-islands",
-    "new": false
+    "new": false,
+    "description": "Create beautiful miniature worlds in Tiny Islands, a peaceful building game where creativity meets relaxation! Design charming island landscapes using simple tools and your imagination. Features minimalist graphics and calming gameplay. Perfect for creative builders and relaxation enthusiasts.",
+    "tags": ["Building", "Creative", "Relaxing", "Island", "Minimalist"],
+    "category": "Simulation"
   },
   {
     "name": "Toss the Turtle",
     "image": "tosstheturtle.png",
     "url": "tosstheturtle",
-    "new": false
+    "new": false,
+    "description": "Launch your turtle as far as possible in Toss the Turtle, a physics-based distance game filled with explosive action! Use cannons, bombs, and various weapons to propel your turtle through the air while collecting cash to upgrade your arsenal. Perfect for physics game fans and upgrade enthusiasts.",
+    "tags": ["Physics", "Distance", "Upgrade", "Turtle", "Explosive"],
+    "category": "Action"
   },
   {
     "name": "Townscaper",
     "image": "img/cover.jpg",
     "url": "townscaper",
-    "new": false
+    "new": false,
+    "description": "Build charming coastal towns in Townscaper, a meditative city-building game focused on pure creativity and relaxation! Place colorful buildings and watch them automatically connect to form beautiful seaside settlements. No goals or pressure - just peaceful building. Perfect for relaxation and creative expression.",
+    "tags": ["City Building", "Relaxing", "Creative", "Coastal", "Meditative"],
+    "category": "Simulation"
   },
   {
     "name": "Tube Jumpers",
     "image": "img/icon.jpg",
     "url": "tube-jumpers",
-    "new": false
+    "new": false,
+    "description": "Battle for survival in Tube Jumpers, a quirky multiplayer party game where players try to knock each other off floating platforms! Jump, dodge, and use physics to outlast your opponents in this fast-paced competitive arena. Perfect for party gaming and local multiplayer fun.",
+    "tags": ["Multiplayer", "Party", "Physics", "Competition", "Platform"],
+    "category": "Multiplayer"
   },
   {
     "name": "Tunnel Rush",
     "image": "img/tunnel.jpg",
     "url": "tunnel-rush",
-    "new": false
+    "new": false,
+    "description": "Speed through colorful 3D tunnels in this intense endless runner! Dodge obstacles, navigate tight spaces, and test your reflexes in increasingly challenging tunnel environments. Master high-speed navigation and spatial awareness. Perfect for speed gaming enthusiasts and reflex challenge seekers.",
+    "tags": ["3D", "Tunnel", "Speed", "Reflex", "Endless"],
+    "category": "Arcade"
   },
   {
     "name": "TV Static",
     "image": "static.png",
     "url": "tv-static",
-    "new": false
+    "new": false,
+    "description": "Experience the mesmerizing digital art of TV Static, an interactive audiovisual experience that transforms random noise into hypnotic patterns! Interact with static television-like visuals and explore generative art in a unique digital medium. Perfect for art enthusiasts and digital experience seekers.",
+    "tags": ["Digital Art", "Interactive", "Visual", "Experimental", "Unique"],
+    "category": "Art"
   },
   {
     "name": "Twitch Tetris",
     "image": "logo.png",
     "url": "twitch-tetris",
-    "new": false
+    "new": false,
+    "description": "Experience a modern twist on the classic puzzle game in Twitch Tetris! Features enhanced graphics, smooth gameplay, and classic Tetris mechanics with contemporary styling. Master line clearing, strategic placement, and speed building. Perfect for puzzle game fans and Tetris enthusiasts.",
+    "tags": ["Tetris", "Puzzle", "Classic", "Block", "Strategy"],
+    "category": "Puzzle"
   },
   {
     "name": "Veloce",
     "image": "qN6zkD.png",
     "url": "veloce",
-    "new": false
+    "new": false,
+    "description": "Race at breakneck speeds in Veloce, a high-octane racing game featuring intense velocity-based gameplay! Navigate through challenging tracks, avoid obstacles, and maintain maximum speed to achieve victory. Features smooth controls and adrenaline-pumping action. Perfect for racing enthusiasts and speed demons.",
+    "tags": ["Racing", "Speed", "High-octane", "Fast-paced", "Velocity"],
+    "category": "Racing"
   },
   {
     "name": "Vex 3",
     "image": "vex3.png",
     "url": "vex3",
-    "new": false
+    "new": false,
+    "description": "Navigate deadly obstacles in this challenging stickman platformer! Master precise jumps, avoid dangerous traps, and complete increasingly difficult levels. Develop platforming skills and patience. Perfect for hardcore platformer fans who enjoy skill-based challenges and precise controls.",
+    "tags": ["Stickman", "Platform", "Challenging", "Obstacles", "Precision"],
+    "category": "Platform"
   },
   {
     "name": "Vex 4",
     "image": "vex4.png",
     "url": "vex4",
-    "new": false
+    "new": false,
+    "description": "Continue the challenging platforming adventure in Vex 4! Face new obstacles, deadly traps, and improved level design in this acclaimed series installment. Enhanced graphics and mechanics provide the ultimate platforming test. Perfect for series fans and platforming masters.",
+    "tags": ["Stickman", "Platform", "Sequel", "Challenging", "Enhanced"],
+    "category": "Platform"
   },
   {
     "name": "Vex 5",
     "image": "vex.jpeg",
     "url": "vex5",
-    "new": false
+    "new": false,
+    "description": "Experience the latest evolution in the Vex platforming series! New mechanics, fresh challenges, and innovative level design await in this demanding stickman adventure. Master advanced platforming techniques and precise timing. Perfect for dedicated platformer enthusiasts seeking the ultimate challenge.",
+    "tags": ["Stickman", "Platform", "Latest", "Advanced", "Series"],
+    "category": "Platform"
   },
   {
     "name": "Vex 6",
     "image": "assets/icon.png",
     "url": "vex6",
-    "new": false
+    "new": false,
+    "description": "Push your platforming skills to the limit in Vex 6! Navigate through the most challenging obstacles yet with refined controls and innovative level design. Features new mechanics and improved visual style. Perfect for hardcore platforming fans who demand the ultimate test of skill and patience.",
+    "tags": ["Stickman", "Platform", "Hardcore", "Ultimate", "Refined"],
+    "category": "Platform"
   },
   {
     "name": "Vex 7",
     "image": "assets/icon.png",
     "url": "vex7",
-    "new": false
+    "new": false,
+    "description": "Experience the pinnacle of the Vex series in this latest challenging installment! Master new obstacles, advanced mechanics, and the most demanding platforming sequences ever created. Features cutting-edge level design and precise controls. Perfect for platforming veterans seeking the ultimate stickman challenge.",
+    "tags": ["Stickman", "Platform", "Pinnacle", "Latest", "Master Level"],
+    "category": "Platform"
   },
   {
     "name": "Wall Smash",
     "image": "thumb.png",
     "url": "wallsmash",
-    "new": false
+    "new": false,
+    "description": "Break through barriers in Wall Smash, an action-packed demolition game where destruction meets strategy! Smash walls, overcome obstacles, and clear paths using various tools and techniques. Features satisfying destruction physics and progressive challenges. Perfect for action fans and destruction enthusiasts.",
+    "tags": ["Action", "Demolition", "Physics", "Destruction", "Obstacles"],
+    "category": "Action"
   },
   {
     "name": "Waterworks",
     "image": "square.png",
     "url": "waterworks",
-    "new": false
+    "new": false,
+    "description": "Connect pipes and manage water flow in Waterworks, a clever puzzle game that challenges your logical thinking! Rotate pipe pieces to create continuous water pathways from source to destination. Features increasingly complex puzzles and satisfying solutions. Perfect for puzzle enthusiasts and logic game fans.",
+    "tags": ["Puzzle", "Logic", "Pipes", "Water", "Problem-solving"],
+    "category": "Puzzle"
   },
   {
     "name": "WeaveSilk",
     "image": "thumb.png",
     "url": "weavesilk",
-    "new": false
+    "new": false,
+    "description": "Create stunning digital art in WeaveSilk, an interactive silk simulation that transforms your mouse movements into beautiful flowing patterns! Generate mesmerizing designs with realistic silk physics and vibrant colors. Features endless creative possibilities. Perfect for artists and relaxation seekers.",
+    "tags": ["Digital Art", "Creative", "Silk", "Interactive", "Relaxing"],
+    "category": "Art"
   },
   {
     "name": "WebGL Fluid Simulation",
     "image": "promo_back.png",
     "url": "webgl-fluid-simulation",
-    "new": false
+    "new": false,
+    "description": "Experience realistic fluid dynamics in WebGL Fluid Simulation, an impressive physics demonstration using advanced web graphics! Interact with liquid simulations, create swirls and waves, and explore fluid mechanics in real-time. Perfect for physics enthusiasts and tech demonstration lovers.",
+    "tags": ["Physics", "Simulation", "WebGL", "Fluid", "Interactive"],
+    "category": "Simulation"
   },
   {
     "name": "WebRetro",
     "image": "assets/icons/iconm256.png",
     "url": "webretro",
-    "new": false
+    "new": false,
+    "description": "Experience classic gaming history with WebRetro, a web-based retro gaming emulator that brings vintage games to your browser! Play classic arcade and console games with authentic retro graphics and sound. Features multiple gaming systems and nostalgic gameplay. Perfect for retro gaming enthusiasts.",
+    "tags": ["Retro", "Emulator", "Classic", "Arcade", "Vintage"],
+    "category": "Retro"
   },
   {
     "name": "Win the White House",
     "image": "splash.png",
     "url": "win-the-whitehouse",
-    "new": false
+    "new": false,
+    "description": "Campaign for the presidency in Win the White House, an educational political strategy game that teaches about the American electoral process! Manage campaigns, make policy decisions, and compete for electoral votes. Features realistic political mechanics. Perfect for educational gaming and politics enthusiasts.",
+    "tags": ["Educational", "Politics", "Strategy", "Campaign", "Government"],
+    "category": "Educational"
   },
   {
     "name": "Wolf 3D",
     "image": "art/wolf3d.png",
     "url": "wolf3d",
-    "new": false
+    "new": false,
+    "description": "Experience the legendary first-person shooter that defined a genre with Wolf 3D! Navigate through maze-like levels, battle enemies, and collect treasures in this pioneering FPS game. Features classic retro graphics and historical gameplay significance. Perfect for FPS fans and gaming history enthusiasts.",
+    "tags": ["FPS", "Classic", "Retro", "Historical", "Maze"],
+    "category": "Action"
   },
   {
     "name": "Wordle",
     "image": "img/logo_512x512.png",
     "url": "wordle",
-    "new": false
+    "new": false,
+    "description": "Guess the five-letter word in six tries or less in this viral word puzzle phenomenon! Use logic, vocabulary, and deduction to solve daily word challenges. Develop language skills and logical thinking. Perfect for word game enthusiasts and puzzle lovers who enjoy daily brain training challenges.",
+    "tags": ["Word Game", "Puzzle", "Daily Challenge", "Viral", "Educational"],
+    "category": "Puzzle"
   },
   {
     "name": "World's Hardest Game",
     "image": "images/splash.jpg",
     "url": "worlds-hardest-game",
-    "new": false
+    "new": false,
+    "description": "Test your skills in the legendary World's Hardest Game! Navigate through impossibly difficult mazes while avoiding moving obstacles. Master patience, precision, and perseverance in this notorious challenge. Perfect for hardcore gamers who enjoy extreme difficulty and testing their limits.",
+    "tags": ["Extreme Difficulty", "Maze", "Challenge", "Legendary", "Hardcore"],
+    "category": "Puzzle"
   },
   {
     "name": "World's Hardest Game 2",
     "image": "the-worlds-hardest-game-2.jpg",
     "url": "worlds-hardest-game-2",
-    "new": false
+    "new": false,
+    "description": "Return to the ultimate challenge in World's Hardest Game 2! Face even more demanding puzzles and obstacles in this notorious sequel. New levels, enhanced difficulty, and improved mechanics test your determination. Perfect for masochistic gamers who conquered the original and crave more punishment.",
+    "tags": ["Extreme Difficulty", "Sequel", "Enhanced", "Ultimate", "Masochistic"],
+    "category": "Puzzle"
   },
   {
     "name": "X-Trial Racing",
     "image": "splash.png",
     "url": "x-trial-racing",
-    "new": false
+    "new": false,
+    "description": "Master extreme motorcycle stunts in X-Trial Racing, an adrenaline-fueled trials game featuring challenging obstacle courses! Navigate through physics-based puzzles, perform precise jumps, and maintain balance across demanding terrains. Perfect for motorcycle enthusiasts and trial racing fans.",
+    "tags": ["Motorcycle", "Trials", "Physics", "Stunts", "Racing"],
+    "category": "Racing"
   },
   {
     "name": "xx142-B2.exe",
     "image": "splash.png",
     "url": "xx142-b2exe",
-    "new": false
+    "new": false,
+    "description": "Enter a mysterious digital realm in xx142-B2.exe, an experimental game that blurs the line between reality and simulation! Experience unique gameplay mechanics, cryptic storytelling, and unconventional design elements. Perfect for experimental game enthusiasts and mystery lovers.",
+    "tags": ["Experimental", "Mystery", "Digital", "Unique", "Cryptic"],
+    "category": "Adventure"
   },
   {
     "name": "Yoshi Fabrication",
     "image": "icons/icon-512.png",
     "url": "yoshifabrication",
-    "new": false
+    "new": false,
+    "description": "Build and craft in the colorful world of Yoshi Fabrication, a creative manufacturing game featuring the beloved dinosaur character! Design items, manage production chains, and create wonderful inventions with Yoshi's help. Perfect for crafting enthusiasts and Nintendo fans.",
+    "tags": ["Crafting", "Manufacturing", "Yoshi", "Nintendo", "Creative"],
+    "category": "Simulation"
   },
   {
     "name": "You Are Bezos",
     "image": "img/banner.png",
     "url": "you-are-bezos",
-    "new": false
+    "new": false,
+    "description": "Experience the life of a tech billionaire in You Are Bezos, a satirical simulation game about wealth and power! Make business decisions, manage resources, and explore the challenges and responsibilities of extreme wealth. Perfect for simulation fans and social commentary enthusiasts.",
+    "tags": ["Simulation", "Satirical", "Business", "Wealth", "Social"],
+    "category": "Simulation"
   },
   {
     "name": "Zombs Royale",
     "image": "zomb.png",
     "url": "zombs-royale",
-    "new": false
+    "new": false,
+    "description": "Battle for survival in Zombs Royale, a colorful battle royale game with top-down shooter action! Fight against other players in shrinking maps, collect weapons and resources, and be the last player standing. Features fast-paced combat and competitive multiplayer. Perfect for battle royale and shooter fans.",
+    "tags": ["Battle Royale", "Multiplayer", "Shooter", "Survival", "Competitive"],
+    "category": "Action"
   }
 ]
